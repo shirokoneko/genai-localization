@@ -1,0 +1,9 @@
+{
+    "HELP_DESC": "Shows command list",
+    "DESCRIPTION": "Description",
+    "NOT_FOUND": "Not found",
+    "GROUP": "Group",
+    "ALIASES": "Aliases",
+    "USAGE": "Usage",
+    "CMD_LIST": "Command list"
+}

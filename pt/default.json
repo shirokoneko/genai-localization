@@ -1,0 +1,63 @@
+{
+  "ERROR": "Um erro ocorreu",
+  "EXAMPLE": "Exemplo de uso",
+  "CONSTANTS": {
+    "int": "número",
+    "string": "frase",
+    "command": "comando",
+    "channel": "canal",
+    "member": "membro"
+  },
+  "errors": {
+    "FULL_DESC": "Descrição do problema",
+    "CORRECT_USAGE": "O uso correto é: `%usage%`",
+    "INSUFFICIENT_ARGS": "argumentos insuficientes fornecidos",
+    "ON_COOLDOWN": "Por favor, vá com calma! (%time% segundos restantes)",
+    "NO_PERMS": "Você precisa da permissão `%perms%` para executar este comando",
+    "NO_PERMS_BOT": "Eu preciso da permissão `%perms%` para executar este comando",
+    "NO_PMS": "Este programa não pode ser executado em PMs.",
+    "INVALID_RESOLVER_TYPE": "Tipo de resolvedor inválido",
+    "RESOLVER_TRY_AGAIN": "Resposta inválida fornecida. Tente novamente",
+    "member": {
+      "NOT_FOUND": "o membro não pôde ser encontrado"
+    },
+    "channel": {
+      "NOT_FOUND": "o canal não pôde ser encontrado"
+    },
+    "command": {
+      "NOT_FOUND": "o comando não pôde ser encontrado"
+    },
+    "string": {
+      "NOT_STRING": "%arg% precisa ser uma string",
+      "MAX": "%arg% length cannot be more than %max%",
+      "MIN": "%arg% length cannot be less than %min%",
+      "ONE_OF": "%arg% must be one of the following: %choices%"
+    },
+    "list": {
+      "MAX": "%arg% length cannot contain more than %max% items",
+      "MIN": "%arg% length cannot contain less than %min% items",
+      "MAX_LENGTH": "%arg% cannot contain items longer than %maxLength%",
+      "MIN_LENGTH": "%arg% cannot contain items shorter than %minLength%",
+      "DUPES": "%arg% cannot contain duplicate values"
+    },
+    "int": {
+      "NOT_INT": "%arg% must be a number",
+      "MAX": "%arg% must be less than or equals to %max%",
+      "MIN": "%arg% must be more than or equals to %min%"
+    }
+  },
+  "menus": {
+    "EXIT": "Enter `%cancel%` to exit the menu.",
+    "EXITED": "You have exited the menu.",
+    "SELECTION": "Selection Menu",
+    "ERROR": "Unknown Error",
+    "INPUT": "Type the number of your choice into chat or `%cancel%` to cancel.",
+    "NEXT_PAGE": "Next page",
+    "PREV_PAGE": "Previous pages"
+  },
+  "collector": {
+    "timeout": "The menu has closed due to inactivity",
+    "max": "Exceeded %max% tries",
+    "maxMatches": "Exceeded %maxMatches% matches"
+  }
+}

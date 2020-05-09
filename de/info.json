@@ -1,0 +1,9 @@
+{
+  "HELP_DESC": "Zeigt information über die gesammelten Daten",
+  "MSGS_INFO": "Nachrichten info",
+  "GUILD_STORED": "Zahl der gespeicherten Nachrichten für diese Gilde",
+  "CHANNEL_STORED": "Zahl der gespeicherten Nachrichten für den Kanal `%channel%`",
+  "NEW_GEN": "Zahl der natürlichen Nachrichten nachdem GenAi eine neue Nachricht verschickt",
+  "GEN_DISABLED": "Automatische generation ist gesperrt hier",
+  "MSG": "Information über alle gespeicherten Nachrichten für die Gilde `%guild%`"
+}

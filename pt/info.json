@@ -1,0 +1,9 @@
+{
+  "HELP_DESC": "Mostra informações sobre dados armazenados",
+  "MSGS_INFO": "Informações de mensagens",
+  "GUILD_STORED": "Quantidade de mensagens armazenadas no grupo",
+  "CHANNEL_STORED": "Quantidade de mensagens armazenasas no canal `%channel%`",
+  "NEW_GEN": "Contagem de mensagens após as quais a GenAi gerará uma nova mensagem",
+  "GEN_DISABLED": "A geração automática de mensagens está desativada aqui",
+  "MSG": "Informações sobre todas as mensagens armazenadas no grupo `%guild%`"
+}

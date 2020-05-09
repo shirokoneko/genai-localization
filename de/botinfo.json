@@ -1,0 +1,11 @@
+{
+  "HELP_DESC": "Information über dem Bot",
+  "TITLE": "Information über GenAi",
+  "CREATION": "Erschaffungs Datum",
+  "SERVERS": "Anzahl der Gilden",
+  "MESSAGES": "Anzahl von gespeicherten Nachrichten",
+  "OWNER": "Besitzer",
+  "LISTS": "Links zu den Bot Websiten",
+  "HOSTING": "Hosting",
+  "SUPPORT": "Gilde des Bots"
+}

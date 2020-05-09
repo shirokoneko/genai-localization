@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "Requesting stored data for guild. Only guild owner can get data. Can get data only one time for 15 days.",
+  "COOLDOWN": "You can only get data again on `%date%`",
+  "EMAIL_PROVIDE": "Provide email to send server information",
+  "CONFIRM": "Do you really want send stored data to email **`%email%`**? You can get data again only after %days% days.\n\nType *`yes`* for confirmation or *`no`* to refuse.",
+  "SENT": "We have saved your request to send server data to `%email%`. Soon you will receive a letter with a file.",
+  "REFUSED": "You have refused to send data."
+}

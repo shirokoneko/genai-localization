@@ -1,0 +1,61 @@
+{
+  "HELP_DESC": "Bot Verwaltung",
+  "MAIN_SELECTION": {
+    "CHANGE_PREFIX": "Veränder den sekundären Präfix",
+    "IGNORE_MANAGE": "Verwalte die Kanal Auslassungsliste",
+    "INTERVAL": "Veränder den Zeitraum zwischen Nachrichten in diesem Kanal",
+    "DISABLED": "Gesperrt",
+    "MENTION": "Erlaube die Erwähnung von Mitgliedern",
+    "LINK": "Lösche links in Nachrichten",
+    "YES": "Ja",
+    "NO": "Nein",
+    "WIPE": "Lösche den Nachrichtenverlauf von diesem Kanal",
+    "LANGUAGE": "Sprache ändern",
+    "TITLE": "GenAi Verwaltungs Menu",
+    "LIMIT": "Limit of last messages"
+  },
+  "PREFIX_MENU": {
+    "PROMPT": "Schreibe jetzt ein neues Präfix. Maximale länge sind vier Zeichen",
+    "SUCCESSFULL": "Sekundärer Präfix erfolgreich zu `%prefix%` gestellt",
+    "FAIL": "Fehler beim Ändern des sekundären Präfixes"
+  },
+  "IGNORE_MENU": {
+    "ADD_CHANNEL": "Füge ein Kanal zu der Auslassungsliste hinzu",
+    "REMOVE_CHANNEL": "Entferne ein Kanal von der Auslassungsliste",
+    "TITLE": "Listenverwaltungsmenü ignorieren ",
+    "FOOTER": "Geben Sie die Anzahl der Aktionen oder `%cancel%` ein, um den Vorgang abzubrechen",
+    "ADD_MENU": {
+      "PROMPT": "Geben Sie einen Kanal ein, der von GenAI ignoriert wird. (Nachrichten werden nicht mehr gesammelt, Generierungsbefehle können nicht ausgeführt werden)",
+      "ALREADY_IGNORE": "`%channel%` ist bereits in der Auslassungsliste",
+      "SUCCESSFULL": "`%channel%` erfolgreich zu der Auslassungsliste hinzugefügt",
+      "FAIL": "Fehler beim Hinzufügen des Kanals zu der Auslassungsliste"
+    },
+    "REMOVE_MENU": {
+      "NO_CHANNELS": "Diese Gilde hat noch keine Auslassungsliste",
+      "FOOTER": "Geben Sie die Anzahl der Kanäle die Sie von der Auslassungsliste entfernen möchten, oder `%cancel%` um zu annulieren",
+      "SUCCESSFULL": "`%channel%` erfolgreich von der Auslassungsliste entfernt"
+    }
+  },
+  "INTERVAL_MENU": {
+    "PROMPT": "Schreiben Sie ein Intervall zwischen Nachrichten, die Sie für die automatische Generierung in diesem Kanal festlegen möchten. Minimum: `%min%`, Maximum: `%max%`. Schreiben Sie \"off\", um die automatische Generierung von Text zu deaktivieren",
+    "DISABLED": "Die automatische Generierung in diesem Kanal wurde erfolgreich deaktiviert",
+    "SUCCESSFULL": "Das Intervall der automatisch generierenden Nachrichten in diesem Kanal wurde erfolgreich zu `%interval%` geändert"
+  },
+  "MENTION_MENU": {
+    "DISABLED": "Erwähnungen in generierten Nachrichten wurden erfolgreich deaktiviert",
+    "ENABLED": "Erwähnungen in generierten Nachrichten wurden erfolgreich aktiviert"
+  },
+  "LINK_MENU": {
+    "DELETE": "Links in generierten Nachrichten wurden erfolgreich deaktiviert",
+    "NOT_DELETE": "Links in generierten Nachrichten wurden erfolgreich aktiviert"
+  },
+  "LANGUAGE_MENU": {
+    "TITLE": "Sprachänderungs Menu",
+    "SUCCESSFULL": "Die Sprache dieser Gilde wurde erfolgreich zu `%lang%` umgestellt"
+  },
+  "LIMIT_MENU": {
+    "PROMPT": "Write limit of getting last messages to generate strings. Minimum: %min%, maximum: %max%",
+    "SUCCESSFULL": "Limit of messages successfully changed to `%limit%`"
+  },
+  "WIPED": "Der Nachrichtenverlauf dieses Kanals wurde erfolgreich gelöscht"
+}

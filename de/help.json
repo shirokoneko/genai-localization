@@ -1,0 +1,9 @@
+{
+  "HELP_DESC": "Zeigt alle möglichen Befehle",
+  "DESCRIPTION": "Beschreibung",
+  "NOT_FOUND": "Nicht vorhanden",
+  "GROUP": "Gruppe",
+  "ALIASES": "Pseudonyme",
+  "USAGE": "Benutzung",
+  "CMD_LIST": "Liste der Befehle"
+}

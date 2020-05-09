@@ -1,0 +1,63 @@
+{
+  "ERROR": "An error has occurred",
+  "EXAMPLE": "Usage example",
+  "CONSTANTS": {
+      "int": "number",
+      "string": "string",
+      "command": "command",
+      "channel": "channel",
+      "member": "member"
+  },
+  "errors": {
+    "FULL_DESC": "Problem description",
+    "CORRECT_USAGE": "The correct usage is: `%usage%`",
+    "INSUFFICIENT_ARGS": "insufficient arguments supplied",
+    "ON_COOLDOWN": "Please cool down! (%time% seconds left)",
+    "NO_PERMS": "You need the permissions `%perms%` to run this command!",
+    "NO_PERMS_BOT": "I need the permissions `%perms%` to run this command!",
+    "NO_PMS": "This command can't be run in PMs.",
+    "INVALID_RESOLVER_TYPE": "Invalid resolver type",
+    "RESOLVER_TRY_AGAIN": "Provided an invalid response. Try again",
+    "member": {
+      "NOT_FOUND": "the member could not be found"
+    },
+    "channel": {
+      "NOT_FOUND": "the channel could not be found"
+    },
+    "command": {
+      "NOT_FOUND": "the command could not be found"
+    },
+    "string": {
+      "NOT_STRING": "%arg% must be a string",
+      "MAX": "%arg% length cannot be more than %max%",
+      "MIN": "%arg% length cannot be less than %min%",
+      "ONE_OF": "%arg% must be one of the following: %choices%"
+    },
+    "list": {
+      "MAX": "%arg% length cannot contain more than %max% items",
+      "MIN": "%arg% length cannot contain less than %min% items",
+      "MAX_LENGTH": "%arg% cannot contain items longer than %maxLength%",
+      "MIN_LENGTH": "%arg% cannot contain items shorter than %minLength%",
+      "DUPES": "%arg% cannot contain duplicate values"
+    },
+    "int": {
+      "NOT_INT": "%arg% must be a number",
+      "MAX": "%arg% must be less than or equals to %max%",
+      "MIN": "%arg% must be more than or equals to %min%"
+   }
+  },
+  "menus": {
+    "EXIT": "Enter `%cancel%` to exit the menu.",
+    "EXITED": "You have exited the menu.",
+    "SELECTION": "Selection Menu",
+    "ERROR": "Unknown Error",
+    "INPUT": "Type the number of your choice into chat or `%cancel%` to cancel.",
+    "NEXT_PAGE": "Next page",
+    "PREV_PAGE": "Previous pages"
+  },
+  "collector": {
+    "timeout": "The menu has closed due to inactivity",
+    "max": "Exceeded %max% tries",
+    "maxMatches": "Exceeded %maxMatches% matches"
+  }
+}
