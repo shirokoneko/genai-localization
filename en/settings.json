@@ -2,7 +2,8 @@
     "HELP_DESC": "Bot configuration",
     "MAIN_SELECTION": {
         "CHANGE_PREFIX": "Change secondary prefix",
-        "IGNORE_MANAGE": "Manage list of ignoring channels",
+        "ALLOW_READ_MESSAGES": "Allow bot to read messages in this channel",
+        "DENY_READ_MESSAGES": "Deny bot to read messages in this channel",
         "INTERVAL": "Change interval of auto-generating message in this channel",
         "DISABLED": "Disabled",
         "MENTION": "Allow to mention users",
@@ -19,22 +20,9 @@
         "SUCCESSFULL": "Secondary prefix successfully sets to `%prefix%`",
         "FAIL": "Failed to change secondary prefix"
     },
-    "IGNORE_MENU": {
-        "ADD_CHANNEL": "Add channel to ignore list",
-        "REMOVE_CHANNEL": "Remove channel from ignore list",
-        "TITLE": "Ignore list management menu",
-        "FOOTER": "Type number of action or `%cancel%` to cancel",
-        "ADD_MENU": {
-            "PROMPT": "Write a channel that will ignored by GenAI (messages will no longer be collected, it will not be possible to run generation commands)",
-            "ALREADY_IGNORE": "`%channel%` is already in ignore list",
-            "SUCCESSFULL": "`%channel%` successfully added to ignore list",
-            "FAIL": "Failed to add channel to ignore list"
-        },
-        "REMOVE_MENU": {
-            "NO_CHANNELS": "This guild doesn't have ignored channels",
-            "FOOTER": "Type number of channel that you want to remove from ignore list or `%cancel%` to cancel",
-            "SUCCESSFULL": "`%channel%` successfully removed from ignore list"
-        }
+    "READ_MESSAGES": {
+        "ALLOWED": "Now bot can read messages in this channel",
+        "DENIED": "Now bot cannot read messages in this channel"
     },
     "INTERVAL_MENU": {
         "PROMPT": "Write interval of messages that you want to set for auto-generation in this channel. Minimum: %min%, maximum: %max%. Write `off` to disable auto-generation text",

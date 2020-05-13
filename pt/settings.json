@@ -2,7 +2,6 @@
   "HELP_DESC": "Configurações do bot",
   "MAIN_SELECTION": {
     "CHANGE_PREFIX": "Mudar o prefixo secundário",
-    "IGNORE_MANAGE": "Gerenciar lista de canais ignorados",
     "INTERVAL": "Mudar o intervalo das mensagens automaticamente geradas nesse canal",
     "DISABLED": "Desativado",
     "MENTION": "Permitir mencionar usuários",
@@ -18,23 +17,6 @@
     "PROMPT": "Escreva o seu novo prefixo. O comprimento máximo do prefixo é de 4 símbolos",
     "SUCCESSFULL": "Prefixo secundário alterado para `%prefix%` com sucesso",
     "FAIL": "Falha ao tentar alterar o prefixo secundário"
-  },
-  "IGNORE_MENU": {
-    "ADD_CHANNEL": "Adicionar canal à lista de ignorados",
-    "REMOVE_CHANNEL": "Remover canal da lista de ignorados",
-    "TITLE": "Menu de gerenciamento da lista de ignorados",
-    "FOOTER": "Digite o número da ação ou `%cancel%` para cancelar",
-    "ADD_MENU": {
-      "PROMPT": "Digite um canal a ser ignorado pelo GenAI (as mensagens não serão mais coletadas, e não será possível rodar comandos de geração)",
-      "ALREADY_IGNORE": "`%channel%` já está na lista de ignorados",
-      "SUCCESSFULL": "`%channel%` adicionado à lista de ignorados com sucesso",
-      "FAIL": "Falha ao adicionar o canal à lista de ignorados"
-    },
-    "REMOVE_MENU": {
-      "NO_CHANNELS": "Não há canais ignorados aqui",
-      "FOOTER": "Digite o número do canal que você quer remover da lista de ignorados ou `%cancel%` para cancelar",
-      "SUCCESSFULL": "`%channel%` removido da lista de ignorados com sucesso"
-    }
   },
   "INTERVAL_MENU": {
     "PROMPT": "Digite o intervalo de mensagens que você quer configurar para geração automática de mensagens neste canal. Mínimo: %min%, máximo: %max%. Digite `off` para desativar texto gerado automaticamente",

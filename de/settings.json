@@ -2,7 +2,6 @@
   "HELP_DESC": "Bot Verwaltung",
   "MAIN_SELECTION": {
     "CHANGE_PREFIX": "Veränder den sekundären Präfix",
-    "IGNORE_MANAGE": "Verwalte die Kanal Auslassungsliste",
     "INTERVAL": "Veränder den Zeitraum zwischen Nachrichten in diesem Kanal",
     "DISABLED": "Gesperrt",
     "MENTION": "Erlaube die Erwähnung von Mitgliedern",
@@ -18,23 +17,6 @@
     "PROMPT": "Schreibe jetzt ein neues Präfix. Maximale länge sind vier Zeichen",
     "SUCCESSFULL": "Sekundärer Präfix erfolgreich zu `%prefix%` gestellt",
     "FAIL": "Fehler beim Ändern des sekundären Präfixes"
-  },
-  "IGNORE_MENU": {
-    "ADD_CHANNEL": "Füge ein Kanal zu der Auslassungsliste hinzu",
-    "REMOVE_CHANNEL": "Entferne ein Kanal von der Auslassungsliste",
-    "TITLE": "Listenverwaltungsmenü ignorieren ",
-    "FOOTER": "Geben Sie die Anzahl der Aktionen oder `%cancel%` ein, um den Vorgang abzubrechen",
-    "ADD_MENU": {
-      "PROMPT": "Geben Sie einen Kanal ein, der von GenAI ignoriert wird. (Nachrichten werden nicht mehr gesammelt, Generierungsbefehle können nicht ausgeführt werden)",
-      "ALREADY_IGNORE": "`%channel%` ist bereits in der Auslassungsliste",
-      "SUCCESSFULL": "`%channel%` erfolgreich zu der Auslassungsliste hinzugefügt",
-      "FAIL": "Fehler beim Hinzufügen des Kanals zu der Auslassungsliste"
-    },
-    "REMOVE_MENU": {
-      "NO_CHANNELS": "Diese Gilde hat noch keine Auslassungsliste",
-      "FOOTER": "Geben Sie die Anzahl der Kanäle die Sie von der Auslassungsliste entfernen möchten, oder `%cancel%` um zu annulieren",
-      "SUCCESSFULL": "`%channel%` erfolgreich von der Auslassungsliste entfernt"
-    }
   },
   "INTERVAL_MENU": {
     "PROMPT": "Schreiben Sie ein Intervall zwischen Nachrichten, die Sie für die automatische Generierung in diesem Kanal festlegen möchten. Minimum: `%min%`, Maximum: `%max%`. Schreiben Sie \"off\", um die automatische Generierung von Text zu deaktivieren",
