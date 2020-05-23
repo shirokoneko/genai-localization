@@ -13,7 +13,9 @@
         "WIPE": "Wipe message history of this channel",
         "LANGUAGE": "Change language",
         "TITLE": "GenAi configuration menu",
-        "LIMIT": "Limit of last messages"
+        "LIMIT": "Limit of last messages",
+        "ENABLE_RANDOM_INTERVAL": "Enable randomized interval for auto-generation",
+        "DISABLE_RANDOM_INTERVAL": "Disable randomized interval for auto-generation"
     },
     "PREFIX_MENU": {
         "PROMPT": "Write your new prefix. Maximum length of prefix is 4 symbols",
@@ -45,5 +47,9 @@
         "PROMPT": "Write limit of getting last messages to generate strings. Minimum: %min%, maximum: %max%",
         "SUCCESSFULL": "Limit of messages successfully changed to `%limit%`"
     },
-    "WIPED": "Successfully wiped message history of this channel"
+    "WIPED": "Successfully wiped message history of this channel",
+    "RANDOM_INTERVAL": {
+        "ENABLED": "Randomized interval for auto-generation successfully enabled",
+        "DISABLED": "Randomized interval for auto-generation successfully disabled"
+    }
 }

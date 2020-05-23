@@ -1,9 +1,10 @@
 {
-    "HELP_DESC": "Shows information about stored data",
-    "MSGS_INFO": "Messages info",
-    "GUILD_STORED": "Count of stored messages for guild",
-    "CHANNEL_STORED": "Count of stored messages for channel `%channel%`",
-    "NEW_GEN": "Count of messages after which GenAi will generate a new message",
-    "GEN_DISABLED": "Auto-generate is disabled here",
-    "MSG": "Information about all stored messages for guild `%guild%`"
+	"HELP_DESC": "Shows information about stored data",
+	"MSGS_INFO": "Messages info",
+	"CHANNEL_STORED": "Count of stored messages for channel `%channel%`",
+	"NEW_GEN": "Count of messages after which GenAi will generate a new message",
+	"GEN_DISABLED": "Auto-generate is disabled",
+	"MSG": "Information about all stored messages for channel `%channel%`",
+	"AVERAGE": "Avg. message length",
+	"IS_RANDOM_INTERVAL": "Is interval for `%channel%` random"
 }
