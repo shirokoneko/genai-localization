@@ -1,4 +1,4 @@
 {
 	"HELP_DESC": "Generates a text with Lobster font on random image",
-	"FAILED": "Failed to generate an image. Keep talking :)! Try again later"
+	"FAILED": "Failed to generate an image."
 }

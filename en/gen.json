@@ -2,5 +2,5 @@
     "HELP_DESC": "Generates a string",
     "IN_IGNORE": "This channel is in ignore list",
     "ACCESS_ERROR": "Failed to access to channel `#%name%`. Probably:\n* you don't have permission to read `#%name%` channel\n* this channel have disabled NSFW status, but `#%name%` have it enabled",
-    "FAILED": "Failed to generate a string. Keep talking :)! Try again later"
+    "FAILED": "Failed to generate a string."
 }

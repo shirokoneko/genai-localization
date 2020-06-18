@@ -2,5 +2,5 @@
   "HELP_DESC": "Generiert einen Faden",
   "IN_IGNORE": "Dieser Kanal ist auf der Auslassungsliste. ",
   "ACCESS_ERROR": "Failed to access to channel `#%name%`. Probably:\n* you don't have permission to read `#%name%` channel\n* this channel have disabled NSFW status, but `#%name%` have it enabled",
-  "FAILED": "Generation eines Fadens fehlgeschlagen. Rede weiter, und versuche es später nochmal!"
+  "FAILED": "Generation eines Fadens fehlgeschlagen."
 }
