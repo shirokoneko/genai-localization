@@ -1,0 +1,16 @@
+{
+	"HELP_DESC": "Statistics about GenAi",
+	"TITLE": "Some GenAi statistics",
+	"GENERATED": "Generated strings (session)",
+	"EXECUTED": "Executed commands (session)",
+	"SAVED_IMAGES": "Saved images (session)",
+	"EXECUTED_MORE": "Executed commands, detailed (session)",
+	"BUGURT": "Bugurt",
+	"DEMOTIVATOR": "Demotivator",
+	"DIALOG": "Dialog",
+	"GENERATE": "Generate",
+	"JACQUE": "Jacque",
+	"LOBSTER": "Lobster",
+	"RAGE": "Rage",
+	"AUTO_GENERATED": "Auto generated"
+}
