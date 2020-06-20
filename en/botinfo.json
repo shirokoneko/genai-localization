@@ -7,5 +7,7 @@
     "OWNER": "Owner",
     "LISTS": "Pages on bot lists",
     "HOSTING": "Hosting",
-    "SUPPORT": "Bot's server"
+    "SUPPORT": "Bot's server",
+    "SUBREDDIT": "Subreddit",
+    "VK": "VKontakte public page/bot"
 }
