@@ -4,6 +4,7 @@
 	"GENERATED": "Generated strings (session)",
 	"EXECUTED": "Executed commands (session)",
 	"SAVED_IMAGES": "Saved images (session)",
+	"SAVED_MESSAGES": "Saved messages (session)",
 	"EXECUTED_MORE": "Executed commands, detailed (session)",
 	"BUGURT": "Bugurt",
 	"DEMOTIVATOR": "Demotivator",
