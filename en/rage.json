@@ -1,5 +1,5 @@
 {
 	"HELP_DESC": "Generates a rage comics",
-	"ON_COOLDOWN": "One of generation commands was recently executed in this channel, try again after **%time%** seconds",
-	"FAILED": "Failed to generate a comics."
+	"ON_COOLDOWN": "one of generation commands was recently executed in this channel, try again after **%time%** seconds",
+	"FAILED": "failed to generate a comics."
 }

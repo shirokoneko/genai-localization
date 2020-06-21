@@ -4,7 +4,7 @@
 	"CHANNEL_STORED": "Count of stored messages for channel `%channel%`",
 	"NEW_GEN": "Count of messages after which GenAi will generate a new message",
 	"GEN_DISABLED": "Auto-generate is disabled",
-	"MSG": "Information about all stored messages for channel `%channel%`",
+	"MSG": "information about all stored messages for channel `%channel%`",
 	"AVERAGE": "Avg. message length",
 	"IS_RANDOM_INTERVAL": "Is interval for `%channel%` random"
 }

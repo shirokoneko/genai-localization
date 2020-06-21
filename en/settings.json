@@ -19,37 +19,37 @@
     },
     "PREFIX_MENU": {
         "PROMPT": "Write your new prefix. Maximum length of prefix is 4 symbols",
-        "SUCCESSFULL": "Secondary prefix successfully sets to `%prefix%`",
-        "FAIL": "Failed to change secondary prefix"
+        "SUCCESSFULL": "secondary prefix successfully sets to `%prefix%`",
+        "FAIL": "failed to change secondary prefix"
     },
     "READ_MESSAGES": {
-        "ALLOWED": "Now bot can read messages in this channel",
-        "DENIED": "Now bot cannot read messages in this channel"
+        "ALLOWED": "now bot can read messages in this channel",
+        "DENIED": "now bot cannot read messages in this channel"
     },
     "INTERVAL_MENU": {
         "PROMPT": "Write interval of messages that you want to set for auto-generation in this channel. Minimum: %min%, maximum: %max%. Write `off` to disable auto-generation text",
-        "DISABLED": "Successfully disabled auto-generation in this channel",
-        "SUCCESSFULL": "Interval of auto-generating messages in this channel successfuly changed to `%interval%`"
+        "DISABLED": "successfully disabled auto-generation in this channel",
+        "SUCCESSFULL": "interval of auto-generating messages in this channel successfuly changed to `%interval%`"
     },
     "MENTION_MENU": {
-        "DISABLED": "Mentions in generated messages have been successfully disabled",
-        "ENABLED": "Mentions in generated messages have been successfully enabled"
+        "DISABLED": "mentions in generated messages have been successfully disabled",
+        "ENABLED": "mentions in generated messages have been successfully enabled"
     },
     "LINK_MENU": {
-        "DELETE": "Links in generated messages have been successfully disabled",
-        "NOT_DELETE": "Links in generated messages have been successfully enabled"
+        "DELETE": "links in generated messages have been successfully disabled",
+        "NOT_DELETE": "links in generated messages have been successfully enabled"
     },
     "LANGUAGE_MENU": {
         "TITLE": "Language changing menu",
-        "SUCCESSFULL": "Server language successfully changed to `%lang%`"
+        "SUCCESSFULL": "server language successfully changed to `%lang%`"
     },
     "LIMIT_MENU": {
         "PROMPT": "Write limit of getting last messages to generate strings. Minimum: %min%, maximum: %max%",
-        "SUCCESSFULL": "Limit of messages successfully changed to `%limit%`"
+        "SUCCESSFULL": "limit of messages successfully changed to `%limit%`"
     },
-    "WIPED": "Successfully wiped message history of this channel",
+    "WIPED": "successfully wiped message history of this channel",
     "RANDOM_INTERVAL": {
-        "ENABLED": "Randomized interval for auto-generation successfully enabled",
-        "DISABLED": "Randomized interval for auto-generation successfully disabled"
+        "ENABLED": "randomized interval for auto-generation successfully enabled",
+        "DISABLED": "randomized interval for auto-generation successfully disabled"
     }
 }
