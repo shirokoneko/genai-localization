@@ -15,7 +15,8 @@
         "TITLE": "GenAi configuration menu",
         "LIMIT": "Limit of last messages",
         "ENABLE_RANDOM_INTERVAL": "Enable randomized interval for auto-generation",
-        "DISABLE_RANDOM_INTERVAL": "Disable randomized interval for auto-generation"
+        "DISABLE_RANDOM_INTERVAL": "Disable randomized interval for auto-generation",
+        "TYPES": "Configure types list for auto-generation"
     },
     "PREFIX_MENU": {
         "PROMPT": "Write your new prefix. Maximum length of prefix is 4 symbols",
@@ -51,5 +52,18 @@
     "RANDOM_INTERVAL": {
         "ENABLED": "randomized interval for auto-generation successfully enabled",
         "DISABLED": "randomized interval for auto-generation successfully disabled"
+    },
+    "TYPES": {
+        "string": "String",
+        "dialog": "Dialog",
+        "bugurt": "Bugurt",
+        "rage": "Rage comics",
+        "demotivator": "Demotivator",
+        "jacque": "Jacque Fresco's quote",
+        "lobster": "Lobster image",
+        "ENABLED": "Enabled",
+        "DISABLED": "Disabled",
+        "TITLE": "Types configuration",
+        "UPDATED": "list of types for auto-generation successfully updated"
     }
 }
