@@ -1,0 +1,17 @@
+{
+	"enable": {
+		"HELP_DESC": "Enable a command or all commands for a channel, user or role",
+		"actions": {
+			"enable": "successfully enabled %command% for %context%",
+			"disable": "successfully disabled %command% for %context%",
+			"revert": "successfully reverted %command% for %context%"
+		}
+	},
+	"disable": {
+		"HELP_DESC": "Disable a command or all commands for a channel, user or role"
+	},
+	"reset": {
+		"HELP_DESC": "Resets all permissions in the server",
+		"success": "reset all permission settings in the server"
+	}
+}
