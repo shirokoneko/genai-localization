@@ -64,6 +64,16 @@
         "ENABLED": "Enabled",
         "DISABLED": "Disabled",
         "TITLE": "Types configuration",
-        "UPDATED": "list of types for auto-generation successfully updated"
-    }
+        "UPDATED": "list of types for auto-generation successfully updated",
+        "DENIED": "you don't have permissions to configure this"
+    },
+    "PREFIX_DESC": "Change bot's additional prefix",
+    "READ_DESC": "Toggle channel's read status",
+    "MENTIONS_DESC": "Toggle removing mentions from texts for this channel",
+    "LINKS_DESC": "Toggle removing links from texts for this channel",
+    "WIPE_DESC": "Wipe channel's messages history in database",
+    "LANG_DESC": "Change bot's language",
+    "RANDOM_INTERVAL_DESC": "Toggle random interval for this channel",
+    "INTERVAL_DESC": "Change interval of auto-generating of messages",
+    "AUTO_GEN_DESC": "Change types for auto-generating (premium only)"
 }
