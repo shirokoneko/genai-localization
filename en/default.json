@@ -2,11 +2,11 @@
   "ERROR": "an error has occurred",
   "EXAMPLE": "Usage example",
   "CONSTANTS": {
-      "int": "number",
-      "string": "string",
-      "command": "command",
-      "channel": "channel",
-      "member": "member"
+    "int": "number",
+    "string": "string",
+    "command": "command",
+    "channel": "channel",
+    "member": "member"
   },
   "errors": {
     "FULL_DESC": "Problem description",
@@ -44,7 +44,7 @@
       "NOT_INT": "%arg% must be a number",
       "MAX": "%arg% must be less than or equals to %max%",
       "MIN": "%arg% must be more than or equals to %min%"
-   }
+    }
   },
   "menus": {
     "EXIT": "Enter `%cancel%` to exit the menu.",

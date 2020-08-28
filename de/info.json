@@ -1,8 +1,8 @@
 {
-	"HELP_DESC": "Zeigt information über die gesammelten Daten",
-	"MSGS_INFO": "Nachrichten info",
-	"CHANNEL_STORED": "Zahl der gespeicherten Nachrichten für den Kanal `%channel%`",
-	"NEW_GEN": "Zahl der natürlichen Nachrichten nachdem GenAi eine neue Nachricht verschickt",
-	"GEN_DISABLED": "Automatische generation ist gesperrt",
-	"MSG": "Information über alle gespeicherten Nachrichten für die Kanal `%channel%`"
+  "HELP_DESC": "Zeigt information über die gesammelten Daten",
+  "MSGS_INFO": "Nachrichten info",
+  "CHANNEL_STORED": "Zahl der gespeicherten Nachrichten für den Kanal `%channel%`",
+  "NEW_GEN": "Zahl der natürlichen Nachrichten nachdem GenAi eine neue Nachricht verschickt",
+  "GEN_DISABLED": "Automatische generation ist gesperrt",
+  "MSG": "Information über alle gespeicherten Nachrichten für die Kanal `%channel%`"
 }

@@ -1,6 +1,6 @@
 {
-	"CLIENT_PREFIX": "Мой префикс %prefix%",
-	"SERVER_PREFIX": "Серверный префикс %server_prefix%",
-	"CAN_READ": "Я **могу** читать здесь сообщения",
-	"CANT_READ": "Я **не могу** читать здесь сообщения"
+  "CLIENT_PREFIX": "Мой префикс %prefix%",
+  "SERVER_PREFIX": "Серверный префикс %server_prefix%",
+  "CAN_READ": "Я **могу** читать здесь сообщения",
+  "CANT_READ": "Я **не могу** читать здесь сообщения"
 }

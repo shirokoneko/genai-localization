@@ -1,11 +1,11 @@
 {
-	"HELP_DESC": "Import messages from file to GenAi database",
-	"PROMPT": "attach a file with messages to your reply\nApplies:\n\t`.json` files with array of strings. Example: `[\"hello\", \"hi\"]`\n\t`.txt` file with splitted messages by \"new line\". Example:\n```\nhello\nhi\n```\nYou have *`1 minute`* to send file",
-	"WRITING": "writing to file..",
-	"SUCCESS": "successfully written `%count%` strings to database for **this** channel",
-	"ERROR": {
-		"NO_FILE": "upload file in your answer",
-		"NOT_FOUND_FILE": "not found `.json` or `.txt` file in your attachments",
-		"PARSE_FAIL": "failed to parse content"
-	}
+  "HELP_DESC": "Import messages from file to GenAi database",
+  "PROMPT": "attach a file with messages to your reply\nApplies:\n\t`.json` files with array of strings. Example: `[\"hello\", \"hi\"]`\n\t`.txt` file with splitted messages by \"new line\". Example:\n```\nhello\nhi\n```\nYou have *`1 minute`* to send file",
+  "WRITING": "writing to file..",
+  "SUCCESS": "successfully written `%count%` strings to database for **this** channel",
+  "ERROR": {
+    "NO_FILE": "upload file in your answer",
+    "NOT_FOUND_FILE": "not found `.json` or `.txt` file in your attachments",
+    "PARSE_FAIL": "failed to parse content"
+  }
 }

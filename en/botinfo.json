@@ -1,13 +1,13 @@
 {
-    "HELP_DESC": "Information about bot",
-    "TITLE": "Information about GenAi",
-    "CREATION": "Creation date",
-    "SERVERS": "Count of servers",
-    "MESSAGES": "Count of stored messages",
-    "OWNER": "Owner",
-    "LISTS": "Pages on bot lists",
-    "HOSTING": "Hosting",
-    "SUPPORT": "Bot's server",
-    "SUBREDDIT": "Subreddit",
-    "VK": "VKontakte public page/bot"
+  "HELP_DESC": "Information about bot",
+  "TITLE": "Information about GenAi",
+  "CREATION": "Creation date",
+  "SERVERS": "Count of servers",
+  "MESSAGES": "Count of stored messages",
+  "OWNER": "Owner",
+  "LISTS": "Pages on bot lists",
+  "HOSTING": "Hosting",
+  "SUPPORT": "Bot's server",
+  "SUBREDDIT": "Subreddit",
+  "VK": "VKontakte public page/bot"
 }

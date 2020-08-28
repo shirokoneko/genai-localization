@@ -1,6 +1,6 @@
 {
-	"CLIENT_PREFIX": "My prefix is %prefix%",
-	"SERVER_PREFIX": "Configured additional prefix is %server_prefix%",
-	"CAN_READ": "I **can** read messages here",
-	"CANT_READ": "I **can't** read messages here"
+  "CLIENT_PREFIX": "My prefix is %prefix%",
+  "SERVER_PREFIX": "Configured additional prefix is %server_prefix%",
+  "CAN_READ": "I **can** read messages here",
+  "CANT_READ": "I **can't** read messages here"
 }
