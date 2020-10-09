@@ -1,13 +1,9 @@
 {
   "HELP_DESC": "Information about bot",
-  "TITLE": "Information about GenAi",
-  "CREATION": "Creation date",
-  "SERVERS": "Count of servers",
-  "MESSAGES": "Count of stored messages",
-  "OWNER": "Owner",
-  "LISTS": "Pages on bot lists",
-  "HOSTING": "Hosting",
+  "SERVERS": "%servers% guilds",
+  "HOSTING": "Hosted by %hosting%",
   "SUPPORT": "Support server",
-  "SUBREDDIT": "Subreddit",
-  "VK": "VKontakte public page/bot"
+  "OWNER": "Created by %owner%",
+  "BOTLISTS": "Bot-lists pages: %pages%",
+  "SOCIAL": "GenAi on %sites%"
 }

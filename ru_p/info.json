@@ -1,10 +1,10 @@
 {
   "HELP_DESC": "ахпхх че по сообщениям",
-  "MSGS_INFO": "рыготни",
-  "CHANNEL_STORED": "сколько плюнули в `%channel%`",
-  "NEW_GEN": "Кол-во хуйни, после которой я чё нибудь напишу.",
-  "GEN_DISABLED": "Авто-ген отключн",
   "MSG": "инфа о мэсседжс для `%channel%`",
-  "AVERAGE": "средн растояние пук",
-  "IS_RANDOM_INTERVAL": "пукаю когда хочу"
+  "READING_ENABLED": "дрочева **видно**",
+  "READING_DISABLED": "не видно дрочева",
+  "MESSAGES": "**%messages%** пуков",
+  "IMAGES": "**%images%** мемов не мемов пикч короч",
+  "AUTOGEN_INTERVAL": "**%interval%** высеров до авто-пука",
+  "AUTOGEN_DISABLED": "авто-высер **вырублен**"
 }
