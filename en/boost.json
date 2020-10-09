@@ -1,0 +1,15 @@
+{
+	"HELP_DESC": "Sends links to pages where you can purchase subscription",
+	"TITLE": "Platforms where you can purchase subscription",
+	"FOOTER": "Read the information about premium perks on the platforms pages",
+	"TOGGLE": {
+		"ERROR": {
+			"NO_PREMIUM": "you do not have a premium subscription, you can find links to purchase a subscription in `%prefix%boost`",
+			"ANOTHER_ACTIVATE": "premium perks is already activated for this server by another user",
+			"LIMIT": "you can't attach more than %limit% guilds to your subscription",
+			"UNKNOWN": "failed to operate premium for this guild"
+		},
+		"DISABLE": "you have successfully disabled premium perks for this guild",
+		"ENABLE": "you have successfully enabled premium perks for this guild"
+	}
+}
