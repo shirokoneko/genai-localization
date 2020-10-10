@@ -1,3 +1,9 @@
 {
-  "HELP_DESC": "Информація о боте"
+  "HELP_DESC": "Информація о боте",
+  "SERVERS": "%servers% серверовъ съ ботомъ",
+  "HOSTING": "Хостингъ - %hosting%",
+  "SUPPORT": "Серверъ поддержки",
+  "OWNER": "Создатель - %owner%",
+  "BOTLISTS": "Страницы на ботъ-листахъ: %pages%",
+  "SOCIAL": "GenAi на %sites%"
 }
