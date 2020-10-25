@@ -1,5 +1,0 @@
-{
-  "HELP_DESC": "Generiert ein Rage Comic",
-  "ON_COOLDOWN": "Eines der generation befehle wurde schon vor kurzem in diesem kanal ausgeführt, versuche es nach **%time%**",
-  "FAILED": "Generation eines Rage Comics fehlgeschlagen."
-}

@@ -1,6 +1,0 @@
-{
-  "HELP_DESC": "Cria uma frase",
-  "IN_IGNORE": "Este canal está na lista de canais ignorados",
-  "ACCESS_ERROR": "Failed to access to channel `#%name%`. Probably:\n* you don't have permission to read `#%name%` channel\n* this channel have disabled NSFW status, but `#%name%` have it enabled",
-  "FAILED": "Falha ao criar uma frase."
-}
