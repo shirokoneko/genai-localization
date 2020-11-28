@@ -1,5 +1,7 @@
 {
   "HELP_DESC": "Jacque Fresco's quote",
   "FAILED": "failed to generate quote.",
-  "NAME": "Jacque Fresco"
+  "NAME": "Jacque Fresco",
+  "USAGE_EXAMPLE_1": "Generate Jacque's quote from messages of this channel",
+  "USAGE_EXAMPLE_2": "Generate Jacque's quote from messages of `#general` channel"
 }

@@ -3,5 +3,7 @@
   "IN_IGNORE": "this channel is in ignore list",
   "ACCESS_ERROR": "failed to access to channel `#%name%`. Probably:\n* you don't have permission to read `#%name%` channel\n* this channel have disabled NSFW status, but `#%name%` have it enabled",
   "NOT_ENOUGH": "not enough data for learning.",
-  "FAILED": "failed to generate a string."
+  "FAILED": "failed to generate a string.",
+  "USAGE_EXAMPLE_1": "Generate string from messages of this channel",
+  "USAGE_EXAMPLE_2": "Generate dialog from messages of `#yeah` channel"
 }

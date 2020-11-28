@@ -1,4 +1,8 @@
 {
   "HELP_DESC": "Generates a text with Lobster font on random image",
-  "FAILED": "failed to generate an image."
+  "FAILED": "failed to generate an image.",
+  "USAGE_EXAMPLE_1": "Generate lobster image from random image and messages of this channel",
+  "USAGE_EXAMPLE_2": "Generate lobster image from random image and messages of `#general` channel",
+  "USAGE_EXAMPLE_3": "Generate lobster image from **andre**'s avatar and messages of `#shtpost` channel",
+  "USAGE_EXAMPLE_4": "Generate lobster image from providen image link and messages of this channel"
 }

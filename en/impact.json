@@ -1,4 +1,8 @@
 {
   "HELP_DESC": "Generates a text with Impact font on random image",
-  "FAILED": "failed to generate an image."
+  "FAILED": "failed to generate an image.",
+  "USAGE_EXAMPLE_1": "Generate impact image from random image and messages of this channel",
+  "USAGE_EXAMPLE_2": "Generate impact image from random image and messages of `#general` channel",
+  "USAGE_EXAMPLE_3": "Generate impact image from **andre**'s avatar and messages of `#memez` channel",
+  "USAGE_EXAMPLE_4": "Generate impact image from providen image link and messages of this channel",
 }

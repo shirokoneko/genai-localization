@@ -5,5 +5,7 @@
   "GROUP": "Group",
   "ALIASES": "Aliases",
   "USAGE": "Usage",
-  "CMD_LIST": "Command list"
+  "CMD_LIST": "Command list",
+  "USAGE_EXAMPLE_1": "Show full list of commands",
+  "USAGE_EXAMPLE_2": "Show detailed information about **demotivator** command"
 }
