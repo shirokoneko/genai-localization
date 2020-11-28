@@ -1,7 +1,5 @@
 {
   "HELP_DESC": "Generates a string",
-  "IN_IGNORE": "this channel is in ignore list",
-  "FAILED": "failed to generate a string.",
   "USAGE_EXAMPLE_1": "Generate string from messages of this channel",
   "USAGE_EXAMPLE_2": "Generate dialog from messages of `#yeah` channel"
 }

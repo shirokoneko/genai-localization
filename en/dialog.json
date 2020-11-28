@@ -1,6 +1,5 @@
 {
   "HELP_DESC": "Generates a dialog",
-  "FAILED": "failed to generate a dialog.",
   "USAGE_EXAMPLE_1": "Generate dialog from messages of this channel",
   "USAGE_EXAMPLE_2": "Generate dialog from messages of `#smth` channel"
 }
