@@ -1,6 +1,5 @@
 {
 	"HELP_DESC": "Complete your message with all saved channel's messages",
-	"NON_PREMIUM": "you are not allowed to use this command in this guild (premium guild only)",
 	"USAGE_EXAMPLE_1": "Complete string from messages of this channel",
 	"USAGE_EXAMPLE_2": "Complete string from messages of `#copy-paste` channel"
 }
