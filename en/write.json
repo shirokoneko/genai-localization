@@ -2,5 +2,6 @@
   "HELP_DESC": "Writing string for channel to database",
   "SUCCESS": "your message successfully saved to database and attached to this channel",
   "FAIL": "failed to save message",
-  "READ": "messages listening is already enabled for this channel, saving is aborted"
+  "READ": "messages listening is already enabled for this channel, saving is aborted",
+  "USAGE_EXAMPLE_1": "Add \"hello\" message to history of this channel messages"
 }

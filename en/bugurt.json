@@ -1,4 +1,5 @@
 {
   "HELP_DESC": "Generates a bugurt",
-  "FAILED": "failed to generate a bugurt."
+  "USAGE_EXAMPLE_1": "Generate bugurt from messages of this channel",
+  "USAGE_EXAMPLE_2": "Generate bugurt from messages of `#memes` channel"
 }

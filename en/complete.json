@@ -1,0 +1,5 @@
+{
+	"HELP_DESC": "Complete your message with all saved channel's messages",
+	"USAGE_EXAMPLE_1": "Complete `bruh` from messages of this channel",
+	"USAGE_EXAMPLE_2": "Complete `hello` from messages of `#copy-paste` channel"
+}

@@ -1,10 +1,13 @@
 {
-  "HELP_DESC": "ахпхх че по сообщениям",
-  "MSG": "инфа о мэсседжс для `%channel%`",
-  "READING_ENABLED": "дрочева **видно**",
-  "READING_DISABLED": "не видно дрочева",
+  "HELP_DESC": "продам телевизор бесплатно",
+  "MSG": "инфа о сохраненных сообщениях для канала `%channel%`",
+  "READING_ENABLED": "разрешить секс **АГА**",
+  "READING_DISABLED": "разрешить секс **НЕ**",
   "MESSAGES": "**%messages%** пуков",
-  "IMAGES": "**%images%** мемов не мемов пикч короч",
-  "AUTOGEN_INTERVAL": "**%interval%** высеров до авто-пука",
-  "AUTOGEN_DISABLED": "авто-высер **вырублен**"
+  "IMAGES": "**%images%** ржаки",
+  "AUTOGEN_INTERVAL": "**%interval%** пуков до авто-гена",
+  "AUTOGEN_DISABLED": "авто-ген **НЕ**",
+  "USAGE_EXAMPLE_1": "получить инфу о СЕКСЕ этого канала",
+  "USAGE_EXAMPLE_2": "получить СЕКС из анала `#shtpost`",
+  "FAILED": "не удалось заняться сексом"
 }

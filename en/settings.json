@@ -1,23 +1,4 @@
 {
-  "HELP_DESC": "Bot configuration",
-  "MAIN_SELECTION": {
-    "CHANGE_PREFIX": "Change secondary prefix",
-    "ALLOW_READ_MESSAGES": "Allow bot to read messages in this channel",
-    "DENY_READ_MESSAGES": "Deny bot to read messages in this channel",
-    "INTERVAL": "Change interval of auto-generating message in this channel",
-    "DISABLED": "Disabled",
-    "MENTION": "Allow to mention users",
-    "LINK": "Delete links in messages",
-    "YES": "Yes",
-    "NO": "No",
-    "WIPE": "Wipe message history of this channel",
-    "LANGUAGE": "Change language",
-    "TITLE": "GenAi configuration menu",
-    "LIMIT": "Limit of last messages",
-    "ENABLE_RANDOM_INTERVAL": "Enable randomized interval for auto-generation",
-    "DISABLE_RANDOM_INTERVAL": "Disable randomized interval for auto-generation",
-    "TYPES": "Configure types list for auto-generation"
-  },
   "PREFIX_MENU": {
     "PROMPT": "Write your new prefix. Maximum length of prefix is 4 symbols",
     "SUCCESSFULL": "secondary prefix successfully sets to `%prefix%`",
@@ -62,11 +43,12 @@
     "jacque": "Jacque Fresco's quote",
     "lobster": "Text with Lobster font on image",
     "impact": "Text with Impact font on image",
+    "bruh": "Text on white background with image below",
     "ENABLED": "Enabled",
     "DISABLED": "Disabled",
     "TITLE": "Types configuration",
     "UPDATED": "list of types for auto-generation successfully updated",
-    "DENIED": "you don't have permissions to configure this"
+    "EMPTY_BITFIELD": "you need to have enabled at least one type of generation."
   },
   "PREFIX_DESC": "Change bot's additional prefix",
   "READ_DESC": "Toggle channel's read status",

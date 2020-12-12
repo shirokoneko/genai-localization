@@ -6,5 +6,8 @@
   "MESSAGES": "**%messages%** messages",
   "IMAGES": "**%images%** images",
   "AUTOGEN_INTERVAL": "**%interval%** messages before auto-generation",
-  "AUTOGEN_DISABLED": "Auto-generation is **disabled**"
+  "AUTOGEN_DISABLED": "Auto-generation is **disabled**",
+  "USAGE_EXAMPLE_1": "Get information about stored messages for this channel",
+  "USAGE_EXAMPLE_2": "Get information about stored messages for `#shtpost` channel",
+  "FAILED": "failed to fetch data about messages"
 }

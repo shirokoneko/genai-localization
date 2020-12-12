@@ -1,5 +1,7 @@
 {
   "HELP_DESC": "Generates a rage comics",
-  "ON_COOLDOWN": "one of generation commands was recently executed in this channel, try again after **%time%** seconds",
-  "FAILED": "failed to generate a comics."
+  "USAGE_EXAMPLE_1": "Generate rage comics from messages of this channel",
+  "USAGE_EXAMPLE_2": "Generate rage comics from messages of `#debate` channel",
+  "USAGE_EXAMPLE_3": "Generate \"large\" rage comics (4 parts)",
+  "USAGE_EXAMPLE_4": "Generate \"small\" rage comics (1 part)"
 }
