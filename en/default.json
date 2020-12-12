@@ -24,9 +24,6 @@
     "NO_PMS": "this command can't be run in PMs.",
     "INVALID_RESOLVER_TYPE": "Invalid resolver type",
     "RESOLVER_TRY_AGAIN": "provided an invalid response. Try again",
-    "role": {
-    	"NOT_FOUND": "the role could not be found"
-    },
     "member": {
       "NOT_FOUND": "the member could not be found"
     },
