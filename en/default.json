@@ -14,7 +14,7 @@
     "ACCESS_ERROR": "failed to access to channel `#%name%`. Probably:\n* you don't have permission to read `#%name%` channel\n* this channel have disabled NSFW status, but `#%name%` have it enabled",
     "FAILED_IMAGE": "failed to generate an image.",
     "FAILED_MESSAGE": "failed to generate a message.",
-    "PREMUIM_ONLY": "you can run this command only in servers with premium status.",
+    "PREMIUM_ONLY": "you can run this command only in servers with premium status.",
     "FULL_DESC": "Problem description",
     "CORRECT_USAGE": "The correct usage is: `%usage%`",
     "INSUFFICIENT_ARGS": "insufficient arguments supplied",
