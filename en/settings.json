@@ -44,6 +44,8 @@
     "lobster": "Text with Lobster font on image",
     "impact": "Text with Impact font on image",
     "bruh": "Text on white background with image below",
+    "all": "Enable all types",
+    "default": "Set to default type",
     "ENABLED": "Enabled",
     "DISABLED": "Disabled",
     "TITLE": "Types configuration",

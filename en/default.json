@@ -10,7 +10,7 @@
   },
   "errors": {
     "NOT_ENOUGH": "not enough data for learning.",
-    "ON_COOLDOWN": "one of generation commands was recently executed in this channel, try again after %time% seconds",
+    "ON_GEN_COOLDOWN": "one of generation commands was recently executed in this channel, try again after %time% seconds",
     "ACCESS_ERROR": "failed to access to channel `#%name%`. Probably:\n* you don't have permission to read `#%name%` channel\n* this channel have disabled NSFW status, but `#%name%` have it enabled",
     "FAILED_IMAGE": "failed to generate an image.",
     "FAILED_MESSAGE": "failed to generate a message.",
