@@ -29,7 +29,13 @@
     "PROMPT": "Write limit of getting last messages to generate strings. Minimum: %min%, maximum: %max%",
     "SUCCESSFULL": "limit of messages successfully changed to `%limit%`"
   },
-  "WIPED": "successfully wiped message history of this channel",
+  "WIPE": {
+    "PROMPT": "Are you sure you want to wipe all saved messages?",
+    "PROMPT_PATTERN": "Are you sure you want to wipe all saved messages that includes your text?",
+    "PROMPT_FOOTER": "Enter `%confirm%` to wipe them, or `%cancel%` to cancel this action.",
+    "WIPED": "all saved messages successfully wiped.",
+    "WIPED_PATTERN": "all saved messages that included provided text successfully wiped."
+  },
   "RANDOM_INTERVAL": {
     "ENABLED": "randomized interval for auto-generation successfully enabled",
     "DISABLED": "randomized interval for auto-generation successfully disabled"
