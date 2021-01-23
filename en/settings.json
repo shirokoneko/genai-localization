@@ -76,7 +76,7 @@
   	"ADD_SUCCESS": "you have added filter successfully.",
   	"REMOVE_TITLE": "Removing filter",
   	"REMOVE_SUCCESS": "you have removed filter successfully.",
-    "LIST_TIP": "You can remove filter by typing `%prefix%filters [filter number in linst]`",
+    "LIST_TIP": "You can remove filter by typing `%prefix%filters [filter number in list]`",
     "USAGE_HELP": "[[filter number] | add [type] [option] | types]",
     "LIST_OF_TYPES": "list of filter types:"
   },
