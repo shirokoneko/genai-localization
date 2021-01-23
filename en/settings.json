@@ -60,7 +60,7 @@
   },
   "FILTER": {
   	"NOT_CONFIGURED": "you have not added filter yet. You can add them with `%prefix%filter add`.",
-  	"LIST_OF_FILTERS": "list of `%channel%` filters",
+  	"LIST_OF_FILTERS": "list of `%channel%` filters:",
   	"TYPES": {
   		"links": "Ignore links",
   		"include": "Ignore messages that *includes* [text]",
@@ -75,7 +75,10 @@
   	"INVALID_REGEXP": "invalid regular expression.",
   	"ADD_SUCCESS": "you have added filter successfully.",
   	"REMOVE_TITLE": "Removing filter",
-  	"REMOVE_SUCCESS": "you have removed filter successfully."
+  	"REMOVE_SUCCESS": "you have removed filter successfully.",
+    "LIST_TIP": "You can remove filter by typing `%prefix%filters [filter number in linst]`",
+    "USAGE_HELP": "[[filter number] | add [type] [option] | types]",
+    "LIST_OF_TYPES": "list of filter types:"
   },
   "PREFIX_DESC": "Change bot's additional prefix",
   "READ_DESC": "Toggle channel's read status",
@@ -85,5 +88,6 @@
   "LANG_DESC": "Change bot's language",
   "RANDOM_INTERVAL_DESC": "Toggle random interval for this channel",
   "INTERVAL_DESC": "Change interval of auto-generating of messages",
-  "AUTO_GEN_DESC": "Change types for auto-generating (premium only)"
+  "AUTO_GEN_DESC": "Change types for auto-generating (premium only)",
+  "FILTER_DESC": "Configure filtering of saved messages"
 }
