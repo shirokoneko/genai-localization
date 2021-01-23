@@ -1,0 +1,18 @@
+{
+	"HELP_DESC": "Configuring channel",
+	"CONFIGURING_BY_ANOTHER": "this channel is configuring now by another user.",
+	"READ_ENABLE": "reading messages from this channel successfully enabled",
+	"READ_SKIP": "this channel has already enabled reading messages, skip",
+	"INTERVAL_PROMPT": "What interval (in messages) of auto-generation you want to setup?\n\tType \"random\", \"skip\" or number from %min% to %max%",
+	"INTERVAL_RANDOM": "auto-generation interval is now randomized",
+	"INTERVAL_SKIP": "you have choosen a skip, keeping the previous value",
+	"INTERVAL_SET": "auto-generation interval successfully set to %interval% messages",
+	"MENTIONS_PROMPT": "Do you want to disable mentions in generated messages?\n\tType %yes% or %no%",
+	"MENTIONS_REMOVE": "mentions will be disabled in generated messages.\n\t`You can configure this options again with %prefix%togglementions`",
+	"MENTIONS_KEEP": "mentions will not be removed in generated messages.\n\t`You can configure this options again with %prefix%togglementions`",
+	"LINKS_PROMPT": "Do you want to replace links with placeholder in generated messages?\n\tType %yes% or %no%",
+	"LINKS_REMOVE": "links will be replace with placeholder in generated messages.\n\t`You can configure this option again with %prefix%togglelinks`",
+	"LINKS_KEEP": "links will not be replaced in generated messages.\n\t`You can configure this option again with %prefix%togglelinks`",
+	"AUTOGEN_TIP": "also you can configure auto-generation types with `%prefix%autogen`",
+	"SUCCESS": "you have successfully configured this channel"
+}
