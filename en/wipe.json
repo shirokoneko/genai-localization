@@ -1,0 +1,8 @@
+{
+	"HELP_DESC": "Wipe channel's messages history in database",
+	"PROMPT": "Are you sure you want to wipe all saved messages?",
+    "PROMPT_PATTERN": "Are you sure you want to wipe all saved messages that includes your text?",
+    "PROMPT_FOOTER": "Enter `%confirm%` to wipe them, or `%cancel%` to cancel this action.",
+    "WIPED": "all saved messages successfully wiped.",
+    "WIPED_PATTERN": "all saved messages that included provided text successfully wiped."
+}

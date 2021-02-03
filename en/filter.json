@@ -1,0 +1,23 @@
+{
+	"HELP_DESC": "Configure filtering of saved messages",
+	"NOT_CONFIGURED": "you have not added filter yet. You can add them with `%prefix%filter add`.",
+	"LIST_OF_FILTERS": "list of `%channel%` filters:",
+	"TYPES": {
+		"links": "Ignore links",
+		"include": "Ignore messages that *includes* [text]",
+		"start": "Ignore messages that *starts* with [text]",
+		"end": "Ignore messages that *ends* with [text]",
+		"regexp": "Ignore messages that *match the regular expression* (js)"
+	},
+	"FILTERS_LIMIT": "you can't add more than %limit% filters per channel.",
+	"TYPE_TITLE": "Choosing filter type",
+	"OPTION_PROMPT": "Write filter's condition",
+	"ALREADY_EXISTS": "similar filter is already exists for this channel.",
+	"INVALID_REGEXP": "invalid regular expression.",
+	"ADD_SUCCESS": "you have added filter successfully.",
+	"REMOVE_TITLE": "Removing filter",
+	"REMOVE_SUCCESS": "you have removed filter successfully.",
+	"LIST_TIP": "You can remove filter by typing `%prefix%filters [filter number in list]`",
+	"USAGE_HELP": "[[filter number] | add [type] [option] | types]",
+	"LIST_OF_TYPES": "list of filter types:"
+}

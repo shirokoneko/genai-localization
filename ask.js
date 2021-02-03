@@ -1,6 +1,6 @@
-const rl = require("readline");
+const readline = require("readline");
 module.exports = (question) => {
-	const interface = rl.createInterface({
+	const interface = readline.createInterface({
 		input: process.stdin,
 		output: process.stdout
 	});

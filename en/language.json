@@ -1,0 +1,5 @@
+{
+	"HELP_DESC": "Change bot's language",
+	"TITLE": "Language changing menu",
+    "SUCCESSFULL": "server language successfully changed to `%lang%`"
+}

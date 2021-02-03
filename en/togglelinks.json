@@ -1,0 +1,5 @@
+{
+	"HELP_DESC": "Toggle removing links from texts for this channel",
+	"DELETE": "links in generated messages have been successfully disabled",
+    "NOT_DELETE": "links in generated messages have been successfully enabled"
+}

@@ -1,0 +1,5 @@
+{
+	"HELP_DESC": "Toggle removing mentions from texts for this channel",
+	"DISABLED": "mentions in generated messages have been successfully disabled",
+    "ENABLED": "mentions in generated messages have been successfully enabled"
+}

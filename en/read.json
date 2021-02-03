@@ -1,0 +1,5 @@
+{
+	"HELP_DESC": "Toggle channel's read status",
+	"ALLOWED": "now bot can read messages in this channel",
+    "DENIED": "now bot cannot read messages in this channel"
+}

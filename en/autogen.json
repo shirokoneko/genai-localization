@@ -1,0 +1,21 @@
+{
+	"HELP_DESC": "Change types for auto-generating (premium only)",
+	"TYPES": {
+		"string": "String",
+		"dialog": "Dialog",
+		"bugurt": "Bugurt",
+		"rage": "Rage comics",
+		"demotivator": "Demotivator",
+		"jacque": "Jacque Fresco's quote",
+		"lobster": "Text with Lobster font on image",
+		"impact": "Text with Impact font on image",
+		"bruh": "Text on white background with image below",
+		"all": "Enable all types",
+		"default": "Set to default type"
+	},
+	"ENABLED": "Enabled",
+	"DISABLED": "Disabled",
+	"TITLE": "Types configuration",
+	"UPDATED": "list of types for auto-generation successfully updated",
+	"EMPTY_BITFIELD": "you need to have enabled at least one type of generation."
+}
