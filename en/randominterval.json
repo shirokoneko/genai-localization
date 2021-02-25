@@ -1,5 +1,0 @@
-{
-	"HELP_DESC": "Toggle random interval for this channel",
-	"ENABLED": "randomized interval for auto-generation successfully enabled",
-    "DISABLED": "randomized interval for auto-generation successfully disabled"
-}
