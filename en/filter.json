@@ -7,7 +7,9 @@
 		"include": "Ignore messages that *includes* [text]",
 		"start": "Ignore messages that *starts* with [text]",
 		"end": "Ignore messages that *ends* with [text]",
-		"regexp": "Ignore messages that *match the regular expression* (js)"
+		"regexp": "Ignore messages that *match the regular expression* (js)",
+		"user": "Ignore messages from [user]",
+		"role": "Ignore messages from users with [role]"
 	},
 	"FILTERS_LIMIT": "you can't add more than %limit% filters per channel.",
 	"TYPE_TITLE": "Choosing filter type",
