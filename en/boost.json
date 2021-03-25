@@ -2,6 +2,8 @@
 	"HELP_DESC": "Sends links to pages where you can purchase subscription",
 	"TITLE": "Platforms where you can purchase subscription",
 	"FOOTER": "Read the information about premium perks on the platforms pages",
+	"LIST": "list of servers where you have enabled premium perks",
+	"NO_GUILDS": "you don't have servers with enabled perks",
 	"TOGGLE": {
 		"ERROR": {
 			"NO_PREMIUM": "you do not have a premium subscription, you can find links to purchase a subscription in `%prefix%boost`",
