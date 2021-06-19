@@ -1,5 +1,5 @@
 {
-	"HELP_DESC": "Change types for auto-generating (premium only)",
+	"HELP_DESC": "Change types for autogenerating (premium only)",
 	"TYPES": {
 		"string": "String",
 		"dialog": "Dialog",
@@ -16,6 +16,6 @@
 	"ENABLED": "Enabled",
 	"DISABLED": "Disabled",
 	"TITLE": "Types configuration",
-	"UPDATED": "list of types for auto-generation successfully updated",
+	"UPDATED": "list of types for autogeneration successfully updated",
 	"EMPTY_BITFIELD": "you need to have enabled at least one type of generation."
 }
