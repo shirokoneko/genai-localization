@@ -10,7 +10,6 @@
 		"LINKS": "remove links from messages",
 		"READ": "automatically save messages",
 		"MENTIONS": "disable mentions in generated messages",
-		"RANDOM": "randomly pick generation interval",
 		"USE_AVATARS": "use members avatars as source in image commands"
 	}
 }
