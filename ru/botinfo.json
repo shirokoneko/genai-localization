@@ -3,7 +3,9 @@
   "SERVERS": "%servers% серверов",
   "HOSTING": "Хостинг %hosting%",
   "SUPPORT": "Сервер поддержки",
-  "OWNER": "Создано %owner%",
-  "BOTLISTS": "Страницы на бот-листах: %pages%",
-  "SOCIAL": "GenAi на %sites%"
+  "INVITE": "Пригласить GenAi",
+  "PREMIUM": "Премиум-подписка",
+  "OWNER": "Создатель",
+  "BOTLISTS": "Страницы на бот-листах",
+  "SOCIAL": "GenAi в соц. сетях"
 }

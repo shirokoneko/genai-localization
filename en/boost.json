@@ -1,17 +1,27 @@
 {
-	"HELP_DESC": "Sends links to pages where you can purchase subscription",
-	"TITLE": "Platforms where you can purchase subscription",
-	"FOOTER": "Read the information about premium perks on the platforms pages",
-	"LIST": "list of servers where you have enabled premium perks",
-	"NO_GUILDS": "you don't have servers with enabled perks",
-	"TOGGLE": {
-		"ERROR": {
-			"NO_PREMIUM": "you do not have a premium subscription, you can find links to purchase a subscription in `%prefix%boost`",
-			"ANOTHER_ACTIVATE": "premium perks is already activated for this server by another user",
-			"LIMIT": "you can't attach more than %limit% guilds to your subscription",
-			"UNKNOWN": "failed to operate premium for this guild"
-		},
-		"DISABLE": "you have successfully disabled premium perks for this guild",
-		"ENABLE": "you have successfully enabled premium perks for this guild"
-	}
+	"HELP_DESC": "Information about GenAi premium",
+	"INFO_TITLE": "Information about GenAi Premium",
+	"USAGE_EXAMPLE_1": "Show information about subscription",
+	"USAGE_EXAMPLE_2": "Show list of servers, where you have enabled perks",
+	"USAGE_EXAMPLE_3": "Activate (or disable) perks for current server",
+	"INFO_DESCRIPTION": "You can support developer of GenAi and get some bonuses for some servers with purchasing GenAi Premium subscription.",
+	"INFO_DESCRIPTION_PURCHASE": "You can purchase it with **[Patreon](https://genai.altir.xyz/premium)**.",
+	"INFO_PERKS_TITLE": "Perks for subscribers",
+	"INFO_PERKS_LIST": [
+		"Activate perks for **%limit% servers**",
+		"Reduce channels cooldown for generation commands by **40%**",
+		"Setting fixed auto-generation interval will be available **from 5 messages** `%prefix%interval <5-50>`",
+		"All generation types from commands **will be available in auto-generation** `%prefix%autogen`",
+		"Will be available **addition to sentences** `%prefix%generate <text that you want to continue>)`",
+		"Count of filters per channel **will be increased to 10 filters**"
+	],
+	"GUILDS_NO_PREMIUM": "you do not have a premium subscription, you can find links to purchase a subscription in `%prefix%premium`",
+	"GUILDS_NO_ITEMS": "you don't have servers with enabled perks.",
+	"GUILDS_LIST_TITLE": "list of servers where you have enabled premium perks",
+	"TOGGLE_NO_PREMIUM": "you do not have a premium subscription, you can find links to purchase a subscription in `%prefix%premium`",
+	"TOGGLE_ANOTHER_ACTIVATED": "premium perks is already activated for this server by another user.",
+	"TOGGLE_LIMIT": "you can't attach more than `%limit%` servers to your subscription.",
+	"TOGGLE_UNKNOWN_ERROR": "failed to toggle premium for this server.",
+	"TOGGLE_ENABLED": "you have successfully enabled premium perks for this server.",
+	"TOGGLE_DISABLED": "you have successfully disabled premium perks for this server."
 }

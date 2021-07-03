@@ -3,7 +3,9 @@
   "SERVERS": "%servers% guilds",
   "HOSTING": "Hosted by %hosting%",
   "SUPPORT": "Support server",
-  "OWNER": "Created by %owner%",
-  "BOTLISTS": "Bot-lists pages: %pages%",
-  "SOCIAL": "GenAi on %sites%"
+  "INVITE": "Invite GenAi",
+  "PREMIUM": "Premium subscription",
+  "OWNER": "Owner",
+  "BOTLISTS": "Bot-lists pages",
+  "SOCIAL": "GenAi on social media"
 }
