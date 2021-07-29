@@ -6,6 +6,7 @@
 	"NOT_FOUND_OPTION": "no such option found. See list of options in `%prefix%config`.",
 	"UPDATED": "option %option% successfully updated.",
 	"FAILED": "failed to update %option%.",
+	"LIST_TIP": "You can change status of option with `%prefix%config <option> [+|-]`",
 	"OPTIONS": {
 		"LINKS": "remove links from messages",
 		"READ": "automatically save messages",

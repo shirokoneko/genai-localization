@@ -6,6 +6,7 @@
   "ALIASES": "Aliases",
   "USAGE": "Usage",
   "CMD_LIST": "Command list",
+  "EXAMPLES": "Examples of usage",
   "USAGE_EXAMPLE_1": "Show full list of commands",
   "USAGE_EXAMPLE_2": "Show detailed information about **demotivator** command"
 }
