@@ -2,6 +2,7 @@
   "FULL_NAME": "English",
   "ERROR": "an error has occurred",
   "EXAMPLE": "Usage example",
+  "PREMIUM_MOTIVATE": "You can get premium perks for this guild and support bot's development by purchasing premium subscription. More details in `%prefix%boost`",
   "CONSTANTS": {
     "int": "number",
     "string": "string",
