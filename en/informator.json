@@ -1,0 +1,7 @@
+{
+	"LINE_1": "Hi, I'm **GenAi**!",
+	"LINE_2": "I am studying on your conversations in channels and I can generate something of my own from them, maybe even something funny.",
+	"LINE_3": "List of commands: `%prefix%help` (you can add name of command for detailed description. Example: `%prefix%help demotivator`)",
+	"LINE_4": "**For start**, you can configure **this** channel with `%prefix%wizard` (or with commands from Moderator category in `%prefix%help`)",
+	"LINE_5": "All configuration commands are listed in `%prefix%help` (Moderator category)"
+}
