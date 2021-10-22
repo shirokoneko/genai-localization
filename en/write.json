@@ -3,5 +3,9 @@
   "SUCCESS": "your message successfully saved to database and attached to this channel",
   "FAIL": "failed to save message",
   "READ": "messages listening is already enabled for this channel, saving is aborted",
-  "USAGE_EXAMPLE_1": "Add \"hello\" message to history of this channel messages"
+  "USAGE_EXAMPLE_1": "Add \"hello\" message to history of this channel messages",
+  "USAGE_EXAMPLE_2": "Get content from given paste and save it to history of this channel messages",
+  "PASTE_FAIL": "failed to get content from given paste",
+  "PASTE_LARGE": "given text is too large (limit is %limit% characters)",
+  "PASTE_COOLDOWN": "you can add messages from paste again on %date%"
 }
