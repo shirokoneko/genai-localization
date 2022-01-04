@@ -1,2 +1,2 @@
 ## GenAi Localization
-Localization files for [GenAi Discord bot](https://genai.altir.xyz/)
+Localization files for [GenAi Discord bot](https://genai.bot/)

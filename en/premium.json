@@ -5,7 +5,7 @@
 	"USAGE_EXAMPLE_2": "Show list of servers, where you have enabled perks",
 	"USAGE_EXAMPLE_3": "Activate (or disable) perks for current server",
 	"INFO_DESCRIPTION": "You can support developer of GenAi and get some bonuses for some servers with purchasing GenAi Premium subscription.",
-	"INFO_DESCRIPTION_PURCHASE": "You can purchase it with **[Patreon](https://genai.altir.xyz/premium)**.",
+	"INFO_DESCRIPTION_PURCHASE": "You can purchase it with **[Patreon](https://genai.bot/premium)**.",
 	"INFO_PERKS_TITLE": "Perks for subscribers",
 	"INFO_PERKS_LIST": [
 		"Activate perks for **%limit% servers**",
