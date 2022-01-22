@@ -1,11 +1,7 @@
 {
   "HELP_DESC": "Information about bot",
-  "SERVERS": "%servers% guilds",
-  "HOSTING": "Hosted by %hosting%",
-  "SUPPORT": "Support server",
-  "INVITE": "Invite GenAi",
-  "PREMIUM": "Premium subscription",
-  "OWNER": "Owner",
-  "BOTLISTS": "Bot-lists pages",
-  "SOCIAL": "GenAi on social media"
+  "BODY": "$0%d servers | Hosted by %1$s\n**[Discord community server](%2$s)** | **[Invite GenAi](%3$s)** | **[Premium subscription](%4$s)**",
+  "OWNER_FIELD": "Owner",
+  "SOCIAL_FIELD": "GenAi on social media",
+  "BOTLISTS_FIELD": "Pages on bot-listings"
 }
