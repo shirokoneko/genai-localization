@@ -1,7 +1,7 @@
 {
 	"HELP_DESC": "Configure filtering of saved messages",
-	"NOT_CONFIGURED": "you have not added filter yet. You can add them with `%0$sfilter add`",
-	"LIST_OF_FILTERS": "list of `%0$s` filters:\n%1$s\n\nℹ️ You can remove filter by typing `%2$sfilters [filter number in list]`",
+	"NOT_CONFIGURED": "you have not added filter yet. You can add them with `%prefix%filter add`.",
+	"LIST_OF_FILTERS": "list of `%channel%` filters:",
 	"TYPES": {
 		"links": "Ignore links",
 		"include": "Ignore messages that *includes* [text]",
@@ -11,7 +11,7 @@
 		"user": "Ignore messages from [user]",
 		"role": "Ignore messages from users with [role]"
 	},
-	"FILTERS_LIMIT": "you can't add more than %0$s filters per channel.",
+	"FILTERS_LIMIT": "you can't add more than %limit% filters per channel.",
 	"TYPE_TITLE": "Choosing filter type",
 	"OPTION_PROMPT": "Write filter's condition",
 	"ALREADY_EXISTS": "similar filter is already exists for this channel.",
@@ -19,6 +19,7 @@
 	"ADD_SUCCESS": "you have added filter successfully.",
 	"REMOVE_TITLE": "Removing filter",
 	"REMOVE_SUCCESS": "you have removed filter successfully.",
+	"LIST_TIP": "You can remove filter by typing `%prefix%filters [filter number in list]`",
 	"USAGE_HELP": "[[filter number] | add [type] [option] | types]",
-	"LIST_OF_TYPES": "list of filter types:\n%0$s"
+	"LIST_OF_TYPES": "list of filter types:"
 }
