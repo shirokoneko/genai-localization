@@ -5,7 +5,7 @@
 	"USAGE_EXAMPLE_2": "Показати список серверів, де ти увімкнув бонуси",
 	"USAGE_EXAMPLE_3": "Активувати (або вимкнути) бонуси для цього сервера",
 	"INFO_DESCRIPTION": "Ти можеш підтримати розробника GenAi та отримати бонуси для кількох серверів із покупкою GenAi преміум-підписки.",
-	"INFO_DESCRIPTION_PURCHASE": "Ты можешь приобрести подписку в **[Patreon](https://genai.bot/premium)**.",
+	"INFO_DESCRIPTION_PURCHASE": "Ти можеш придбати підписку в **[Patreon](https://genai.bot/premium)**.",
 	"INFO_PERKS_TITLE": "Переваги підписки",
 	"INFO_PERKS_LIST": [
 		"Активування бонусів для **%limit% серверів**",
