@@ -1,6 +1,5 @@
 {
 	"HELP_DESC": "Change bot's language",
 	"TITLE": "Language changing menu",
-	"FOOTER": "Type the number of your choice into chat or `%0$s` to cancel.\n\nYou can help us with translation here:\n\thttps://genai.bot/l10n",
-    "SUCCESSFULL": "server language successfully changed to `%0$s`"
+    "SUCCESSFULL": "server language successfully changed to `%lang%`"
 }

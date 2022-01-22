@@ -1,5 +1,6 @@
 {
-	"HELP_DESC": "Change bot's additional prefix",
-    "SUCCESSFULL": "secondary prefix successfully changed to `%0$s`",
+    "HELP_DESC": "Change bot's additional prefix",
+    "PROMPT": "Write your new prefix. Maximum length of prefix is 4 symbols",
+    "SUCCESSFULL": "secondary prefix successfully sets to `%prefix%`",
     "FAIL": "failed to change secondary prefix"
-}
+} 

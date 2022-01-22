@@ -1,11 +1,12 @@
 {
 	"HELP_DESC": "Configure channel options",
-	"LIST": "list of configured options:\n%0$s\n\nℹ️ You can change status of option with `$1%sconfig <option> [+|-]`",
+	"LIST": "list of configured options:\n%list%",
 	"ENABLED": "enabled",
 	"DISABLED": "disabled",
-	"NOT_FOUND_OPTION": "no such option found. See list of options in `%0$sconfig`.",
-	"UPDATED": "option `%0$s` successfully updated.",
-	"FAILED": "failed to update `%0$s`",
+	"NOT_FOUND_OPTION": "no such option found. See list of options in `%prefix%config`.",
+	"UPDATED": "option %option% successfully updated.",
+	"FAILED": "failed to update %option%.",
+	"LIST_TIP": "You can change status of option with `%prefix%config <option> [+|-]`",
 	"OPTIONS": {
 		"LINKS": "remove links from messages",
 		"READ": "automatically save messages",

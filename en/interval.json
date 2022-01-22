@@ -1,8 +1,11 @@
 {
-	"HELP_DESC": "Change interval of autogenerating of messages",
-	"PROMPT": "Write interval of messages that you want to set for autogeneration in this channel. Allowed arguments:\n\t* Number from %0$d to %1$d for fixed interval (in messages)\n\t* `random` for randomized interval\n\t* `off` for disabling autogeneration",
+    "HELP_DESC": "Change interval of autogenerating of messages",
+    "PROMPT": "Write interval of messages that you want to set for autogeneration in this channel. Allowed arguments:",
+    "FIXED": "Number from %min% to %max% for fixed interval (in messages)",
+    "RANDOM": "`random` for randomized interval",
+    "DISABLE": "`off` for disabling autogeneration",
     "DISABLED": "successfully disabled autogeneration in this channel",
-    "SUCCESSFULL": "interval of autogenerating messages in this channel successfuly changed to `%0$d`",
+    "SUCCESSFULL": "interval of autogenerating messages in this channel successfuly changed to `%interval%`",
     "RANDOM_ENABLED": "randomized interval for autogeneration successfully enabled",
     "RANDOM_ALREADY_ENABLED": "randomized interval is already enabled for this channel"
 }
