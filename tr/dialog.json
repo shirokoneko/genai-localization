@@ -1,0 +1,5 @@
+{
+  "HELP_DESC": "Bir diyalog oluştutur",
+  "USAGE_EXAMPLE_1": "Bu kanaldaki mesajlardan bir diyalog oluşturur",
+  "USAGE_EXAMPLE_2": "`#smth` adlı kanaldaki mesajlardan bir diyalog oluşturur"
+}

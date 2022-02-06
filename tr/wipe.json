@@ -1,0 +1,8 @@
+{
+    "HELP_DESC": "Bu kanalda kayıtlı olan mesajları veri merkezinden silme",
+    "PROMPT": "Tüm kayıtlı mesajları silmek istediğinizden emin misiniz?",
+    "PROMPT_PATTERN": "Yazmış olduğunuz mesaj da dahil olmak üzere tüm mesajları veri merkezimizden silmek istediğinizden emin misiniz?",
+    "PROMPT_FOOTER": "`%confirm%` yazarak silebilir, `%cancel%` yazarak bu aksiyonu iptal edebilirsiniz.",
+    "WIPED": "tüm kaydedilen mesajlar başarıyla silindi.",
+    "WIPED_PATTERN": "belirtilen mesaj da dahil olmak üzere tüm mesajlar silindi."
+}

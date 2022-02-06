@@ -1,0 +1,7 @@
+{
+  "HELP_DESC": "Bir çizgi roman oluşturur",
+  "USAGE_EXAMPLE_1": "Bu kanaldaki mesajlarla bir çizgi roman oluşturur",
+  "USAGE_EXAMPLE_2": "`#debate` kanalındaki mesajlarla bir çizgi roman oluşturur",
+  "USAGE_EXAMPLE_3": "\"Büyük\" bir çizgi roman oluşturur (4 parça)",
+  "USAGE_EXAMPLE_4": "\"Küçük\" bir çizgi roman oluşturur (1 parça)"
+}

@@ -1,0 +1,18 @@
+{
+	"HELP_DESC": "Kanalı ayarlanma",
+	"CONFIGURING_BY_ANOTHER": "bu kanal şu an başka bir kullanıcı tarafından yapılandırılıyor.",
+	"READ_ENABLE": "bu kanaldaki mesajları okuma başarıyla açıldı",
+	"READ_SKIP": "zaten bu kanaldaki mesajları okuma açıkmış, bu adım atlanıldı",
+	"INTERVAL_PROMPT": "Otomatik oluşturmak istediğiniz mesajların sıklığı ne kadar olmalı?\n\t\"random\", \"skip\" veya %min%-%max% arası bir sayı yaz.",
+	"INTERVAL_RANDOM": "otomatik oluşturma şu an rastgele aralıklarla olacak",
+	"INTERVAL_SKIP": "zaten önceden bir geçiş seçmişsiniz, seçtiğiniz değer seçildi",
+	"INTERVAL_SET": "auto-generation sıklığı başarıyla %interval% mesaj olarak değiştirildi",
+	"MENTIONS_PROMPT": "Mesajlarda etiketlemenin kapalı olmasını ister misiniz?\n\t%yes% veya %no% olarak cevap verin.",
+	"MENTIONS_REMOVE": "etiketlemeler oluşturulan mesajlarda kapalı olacak.\n\t`İsterseniz bu ayarı %prefix%togglementions ile değiştirebilirsiniz`",
+	"MENTIONS_KEEP": "etiketlemeler oluşturulan mesajlarda da bulunacak.\n\t`İsterseniz bu ayarı %prefix%togglementions ile değiştirebilirsiniz`",
+	"LINKS_PROMPT": "Oluşturulan mesajlardaki bağlantıları başka bir mesaj ile otomatik değiştirilmesini ister misiniz?\n\t%yes% veya %no% olarak cevap verin",
+	"LINKS_REMOVE": "linkler oluşturulan mesajlarda değiştirilecek.\n\t`İsterseniz bu ayarı %prefix%togglelinks ile değiştirebilirsiniz`",
+	"LINKS_KEEP": "linkler oluşturulan mesajlarda değiştirilmeyecek.\n\t`İsterseniz bu ayarı %prefix%togglelinks ile değiştirebilirsiniz`",
+	"AUTOGEN_TIP": "ekstra olarak, isterseniz auto-generation seçeneklerini `%prefix%autogen` komutu ile ayarlayabilirsiniz",
+	"SUCCESS": "bu kanalı başarıyla yapılandırdınız"
+}

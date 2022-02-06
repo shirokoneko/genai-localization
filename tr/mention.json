@@ -1,0 +1,6 @@
+{
+  "CLIENT_PREFIX": "Önekim (prefixim): %prefix%",
+  "SERVER_PREFIX": "Sunucuya özel ayarlanmış önekim (prefixim): %server_prefix%",
+  "CAN_READ": "Bu kanaldaki mesajları okuya**biliyorum**",
+  "CANT_READ": "Bu kanaldaki mesajalrı okuya**mıyorum**"
+} 

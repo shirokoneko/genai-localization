@@ -1,0 +1,13 @@
+{
+  "HELP_DESC": "Kaydedilen veriler hakkında bilgiler gösterir",
+  "MSG": "`%channel%` adlı kanaldaki kaydedilen tüm mesajlar hakkında bilgi",
+  "READING_ENABLED": "Mesajları okuma **aktif**",
+  "READING_DISABLED": "Mesajları okuma **deaktif**",
+  "MESSAGES": "**%messages%** tane mesaj",
+  "IMAGES": "**%images%** tane resim",
+  "AUTOGEN_INTERVAL": "Autogenerationden önce **%interval%** tane mesaj",
+  "AUTOGEN_DISABLED": "Auto-generation **deaktif**",
+  "USAGE_EXAMPLE_1": "Bu kanalda kaydedilmiş mesajlar hakkında bilgi al",
+  "USAGE_EXAMPLE_2": "`#shtpost` adlı kanaldaki kaydedilmiş mesajlar hakkında bilgi al",
+  "FAILED": "kaydedilen mesajlar hakkında bilgi alma başarısız oldu"
+}

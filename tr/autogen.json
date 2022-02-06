@@ -1,0 +1,21 @@
+{
+	"HELP_DESC": "Autogenerating için tercihinizi değiştirin (sadece premium)",
+	"TYPES": {
+		"string": "Yazı",
+		"dialog": "Diyalog",
+		"bugurt": "Bugur",
+		"rage": "Çizgi romanlar",
+		"demotivator": "Demotivatör",
+		"jacque": "Jacque Fresco'nun alıntısı",
+		"lobster": "Istakoz Yazı Tipi olan yazı",
+		"impact": "Impact Yazı Tipi olan yazı",
+		"bruh": "Aşağıdaki resim ile üzerine beyaz arkaplanlı yazı",
+		"all": "Tüm tercihleri etkinleştir",
+		"default": "Varsayılan ayarı tercih et"
+	},
+	"ENABLED": "Aktif",
+	"DISABLED": "Deaktif",
+	"TITLE": "Tercih yapılandırması",
+	"UPDATED": "tercihler güncellendi",
+	"EMPTY_BITFIELD": "en az birini tercih etmek zorundasınız."
+}

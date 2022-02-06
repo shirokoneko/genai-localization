@@ -1,0 +1,7 @@
+{
+  "HELP_DESC": "Bir demotivatör oluşturur",
+  "USAGE_EXAMPLE_1": "Bu kanaldan rastgele bir resim ve mesaj ile demotivatör oluşturur",
+  "USAGE_EXAMPLE_2": "Bu kanaldan rastgele bir resim ve `#general` kanalından rastgele bir mesaj ile demotivatör oluşturur",
+  "USAGE_EXAMPLE_3": "**andre**'nin profil fotoğrafından ve `#general` kanalından rastgele bir mesaj ile demotivatör oluşturur",
+  "USAGE_EXAMPLE_4": "Belirtilen fotoğraf linki ve bu kanaldaki mesajlardan bir demotivatör oluşturur"
+}

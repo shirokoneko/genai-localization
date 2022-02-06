@@ -1,0 +1,25 @@
+{
+	"HELP_DESC": "Kaydedilmiş mesajları filtreme ayarları",
+	"NOT_CONFIGURED": "daha filtre eklenmedi. Eklemek için: `%prefix%filter add`.",
+	"LIST_OF_FILTERS": "`%channel%` filtrelerinin listesi:",
+	"TYPES": {
+		"links": "Linkleri görmezden gel",
+		"include": "[text] *içeren* mesajları görmezden gel",
+		"start": "[text] *ile başlayan* mesajları görmezden gel",
+		"end": "[text] *ile biten* mesajları görmezden gel",
+		"regexp": "Regexp (js) *içeren* ifadeleri görmezden gel",
+		"user": "[user] kullanıcısından gelen mesajları görmezden gel",
+		"role": "[role] rolüne sahip olan kullanıcılardan gelen mesajları görmezden gel"
+	},
+	"FILTERS_LIMIT": "bu kanala %limit% tane filtreden daha fazla filtre ekleyemezsin.",
+	"TYPE_TITLE": "Filtre tipi seçiliyor",
+	"OPTION_PROMPT": "Filtrenin şartını yazın",
+	"ALREADY_EXISTS": "benzer bir filtre zaten bu kanal için mevcut.",
+	"INVALID_REGEXP": "geçersiz regular expression.",
+	"ADD_SUCCESS": "filtreyi başarıyla eklediniz.",
+	"REMOVE_TITLE": "Filtre kaldırılıyor",
+	"REMOVE_SUCCESS": "başarıyla filtreyi kaldırdınız.",
+	"LIST_TIP": "Filtreyi `%prefix%filters [listedeki filtre numarası]` yazarak kaldırabilirsiniz.",
+	"USAGE_HELP": "[[filtre numarası] | add [seçim] [ayarı] | ayarları]",
+	"LIST_OF_TYPES": "filtre seçimlerinin listesi:"
+}

@@ -1,0 +1,12 @@
+{
+  "HELP_DESC": "Komut listesini gösterir",
+  "DESCRIPTION": "Açıklama",
+  "NOT_FOUND": "Bulunamadı",
+  "GROUP": "Grup",
+  "ALIASES": "Başka adlar",
+  "USAGE": "Kullanım",
+  "CMD_LIST": "Komut listesi",
+  "EXAMPLES": "Kullanım örnekleri",
+  "USAGE_EXAMPLE_1": "Tüm komut listesini göster",
+  "USAGE_EXAMPLE_2": "**demotivator** komutu hakkında tüm detaylı bilgileri gösterir"
+}

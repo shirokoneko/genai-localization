@@ -1,0 +1,7 @@
+{
+  "HELP_DESC": "Istakoz yazı tipi ve rastgele bir resim ile yeni bir resim yapar",
+  "USAGE_EXAMPLE_1": "Bu kanaldaki mesajlar ile Istakoz yazı tipi şeklinde rastgele bir yazı ile rastgele bir resimi birleştirip yeni bir resim yapar",
+  "USAGE_EXAMPLE_2": "`#general` kanalındaki mesajlar ile Istakoz yazı tipi şeklinde rastgele bir yazı ile rastgele bir resimi birleştirip yeni bir resim yapar",
+  "USAGE_EXAMPLE_3": "`#shtpost` kanalındaki mesajlar ile Istakoz yazı tipi şeklinde rastgele bir yazı ile **andre**'nin profil fotoğrafını birleştirip yeni bir resim yapar",
+  "USAGE_EXAMPLE_4": "`Bu kanaldaki mesajlar ile Istakoz yazı tipi şeklinde rastgele bir yazı ile linki verilen fotoğrafı birleştirip yeni bir resim yapar"
+}

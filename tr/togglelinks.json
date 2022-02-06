@@ -1,0 +1,5 @@
+{
+	"HELP_DESC": "Bu kanaldaki oluşturulan mesajlardan linklerin silinmesi ayarını açıp kapama",
+	"DELETE": "oluşturulan mesajlardaki linkler otomatik olarak silinecek",
+	"NOT_DELETE": "oluşturulan mesajlardaki linkler otomatik olarak silinmeyecek"
+}

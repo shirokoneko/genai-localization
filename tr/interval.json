@@ -1,0 +1,11 @@
+{
+    "HELP_DESC": "Autogenerating için mesajların otomatik oluşturulmasının aralığını değiştirin",
+    "PROMPT": "Autogeneration için bir oluşturma sıklığı seçin. İzin verilen argümanlar: ",
+    "FIXED": "Sabit aralık için %min%-%max% arası bir sayı (mesaj için)",
+    "RANDOM": "Rastgele sıklık için: `random`",
+    "DISABLE": "Autogeneration'u kapatmak için: `off`",
+    "DISABLED": "başarıyla bu kanalda autogenerationu deaktifleştirdin",
+    "SUCCESSFULL": "bu kanaldaki autogeneration sıklığı başarılı `%interval%` olarak değiştirildi",
+    "RANDOM_ENABLED": "autogeneration için rastgele sıklık başarıyla aktifleştirildi",
+    "RANDOM_ALREADY_ENABLED": "rastgele sıklık zaten bu kanal için aktifleştirilmiş"
+}
