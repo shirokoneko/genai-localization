@@ -1,0 +1,6 @@
+{
+    "HELP_DESC": "Bot'un ekstra önekini (prefixini) değiştir",
+    "PROMPT": "Yeni önekini (prefixini) yaz. Maksimum uzunluk, 4 semboldür",
+    "SUCCESSFULL": "ikinci önek (prefix) başarıyla `%prefix%` olarak değiştirildi",
+    "FAIL": "ikinci öneki (prefixi) değiştirirken bir sorun oluştu"
+} 

@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "Sunucu için kaydedilen verileri talep edebilirsiniz. Sadece sunucu sahipleri veriye sahip olabilir. Her 15 günde sadece bir kere sahip olunabilir.",
+  "COOLDOWN": "verileri %date% tarihinde tekrardan talep edebilirsiniz",
+  "EMAIL_PROVIDE": "sunucu bilgilerini talep etmek için email adresinizi verin",
+  "CONFIRM": "Verileri **`%email%`** email adresine göndermek istediğinizden emin misiniz? Tekrardan verilerinizi almak için %days% gün geçmesini beklemeniz gerekmekte.\n\n*`yes`* yazarak onaylayın veya *`no`* yazarak reddedin.",
+  "SENT": "verilerinizin gönderilmesi için sunmuş olduğunuz talebi `%email%` adresine göndermek için kaydettik. Yakında bizden içerisinde verilerinizin olduğu bir mesaj alacaksınız.",
+  "REFUSED": "verilerin gönderilmesini reddettiniz."
+}

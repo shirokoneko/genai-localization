@@ -1,0 +1,6 @@
+{
+  "HELP_DESC": "Bir yazı oluşturur",
+  "USAGE_EXAMPLE_1": "Bu kanaldan gelen mesajlar ile bir yazı oluştur",
+  "USAGE_EXAMPLE_2": "`#yeah` kanalından gelen mesajlar ile bir yazı oluştur",
+  "USAGE_EXAMPLE_3": "\"hello\" ile başlayan bir yazı oluştur (sadece premium)"
+}

@@ -1,0 +1,7 @@
+{
+	"LINE_1": "Selam, Ben **GenAi**!",
+	"LINE_2": "Konuştuğunuz kanaldaki yazışmalar ile kendimden de bir şeyler katarak yeni şeyler üretiyorum, hatta bazıları çok komik olabiliyor.",
+	"LINE_3": "Komut listem: `%prefix%help` (ekstra bilgi öğrenmek istediğin komut için yardım alabilirsin. Örnek olarak: `%prefix%help demotivator`)",
+	"LINE_4": "**Başlangıç için**, **bu kanalı** `%prefix%wizard` komutu ile ayarlayabilirsin (veya `%prefix%help` komutundaki Moderatör kategorisinde bulunan komutlarla da ayarlayabilirsin)",
+	"LINE_5": "Tüm yapılandırma komutları `%prefix%help` komutunda listelenmektedir (Moderatör kategorisi)"
+}

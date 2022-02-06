@@ -1,0 +1,11 @@
+{
+  "HELP_DESC": "Kanal için veri tabanına ekstra yazı yazdırmak",
+  "SUCCESS": "mesajınız başarılı olarak veri tabanına kayıt edildi ve bu kanala bağlandı",
+  "FAIL": "mesaj kaydetme başarısız",
+  "READ": "bu kanaldaki mesajları okuma zaten açık, mesaj kaydetme iptal edildi",
+  "USAGE_EXAMPLE_1": "\"selam\" mesajını bu kanaldaki veri tabanına kayıt edin",
+  "USAGE_EXAMPLE_2": "Belirtilen paste bağlantısından verileri alıp bu kanal için veri tabanına kayıt edin",
+  "PASTE_FAIL": "verilen bağlantıdaki veri alınamadı",
+  "PASTE_LARGE": "belirtilen yazı çok uzun (limit, %limit% karakter)",
+  "PASTE_COOLDOWN": "bağlantı ile tekrardan veri yazdırmak için %date% tarihine kadar bekleyin"
+}

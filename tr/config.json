@@ -1,0 +1,17 @@
+{
+	"HELP_DESC": "Kanal ayarlarını yapılandır",
+	"LIST": "ayarlanılabilecekler listesi:\n%list%",
+	"ENABLED": "aktif",
+	"DISABLED": "deaktif",
+	"NOT_FOUND_OPTION": "belirttiğiniz seçenek bulunamadı. Ayarlanılabilir seçenekler için: `%prefix%config`.",
+	"UPDATED": "%option% adlı ayar başarıyla güncellendi.",
+	"FAILED": "%option% ayarlı güncellemesi başarısız.",
+	"LIST_TIP": "Durumu `%prefix%config <option> [+|-]` ayarı ile değiştirebilirsiniz.",
+	"OPTIONS": {
+		"LINKS": "mesajlardan linkleri siler",
+		"READ": "otomatik olarak mesajları kaydeder",
+		"MENTIONS": "oluşturulan mesajlardan etiketlenmeleri deaktif eder",
+		"USE_AVATARS": "sunucudaki üyelerin profil fotoğraflarını resim komutlarında kullanma",
+		"MENTION_GENERATE": "botu etiketleyince mesaj oluşturma"
+	}
+}

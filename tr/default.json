@@ -1,0 +1,71 @@
+{
+  "FULL_NAME": "Türkçe",
+  "ERROR": "bir hata meydana geldi",
+  "EXAMPLE": "Kullanım örneği",
+  "PREMIUM_MOTIVATE": "Bu sunucu için premium ayrıcalıklarını edinmek ve bot yapımını desteklemek için premium üyelik satın alabilirsiniz. Daha fazla detay için `%prefix%boost`",
+  "CONSTANTS": {
+    "int": "sayı",
+    "string": "yazı",
+    "command": "komut",
+    "channel": "kanal",
+    "member": "üye"
+  },
+  "errors": {
+    "NOT_ENOUGH": "öğrenebilmem için yeterli veri yok, otomatik olarak mesaj kaydetmeyi `%prefix%read` ayarı ile aç",
+    "ON_GEN_COOLDOWN": "daha demin oluşturma komutlarından birisi bu kanalda kullanıldı, lütfen %time% saniye sonra tekrar deneyin.",
+    "ACCESS_ERROR": "`#%name%` kanalındaki mesajlar ile bir şey oluşturamazsın",
+    "FAILED_IMAGE": "oluşturulmaya çalışılan resim başarısız oldu.",
+    "FAILED_MESSAGE": "oluşturulmaya çalışılan mesaj başarısız oldu.",
+    "PREMIUM_ONLY": "bu komutu sadece premium statüsü olan sunucularda kullanabilirsin.",
+    "FULL_DESC": "Sorun açıklaması",
+    "CORRECT_USAGE": "Doğru kullanım şu şekilde: `%usage%`",
+    "INSUFFICIENT_ARGS": "verilen argümanlar komut için yetersiz",
+    "ON_COOLDOWN": "lütfen sakin ol! (%time% saniye kaldı)",
+    "NO_PERMS": "bu komutu çalıştırabilmek için `%perms%` yetkilerine ihtiyacın var!",
+    "NO_PERMS_BOT": "Bu komutu çalıştırabilmek için `%perms%` yetkilerine ihtiyacım var!",
+    "NO_PMS": "bu komut özel mesajlarda çalıştırılamaz.",
+    "INVALID_RESOLVER_TYPE": "Invalid resolver type",
+    "RESOLVER_TRY_AGAIN": "geçersiz bir yanıt verildi. Lütfen tekrar deneyin",
+    "member": {
+      "NOT_FOUND": "bu üye bulunamadı"
+    },
+    "channel": {
+      "NOT_FOUND": "bu kanal bulunamadı"
+    },
+    "command": {
+      "NOT_FOUND": "bu komut bulunamadı"
+    },
+    "string": {
+      "NOT_STRING": "%arg% argümanı yazı şeklinde sunulmalı",
+      "MAX": "%arg% argümanının uzunluğu en fazla %max% karakter olabilir",
+      "MIN": "%arg% argümanının uzunluğu en az %min% karakter olabilir",
+      "ONE_OF": "%arg% argümanı sadece belirtilen şeylerden birisi olabilir: %choices%"
+    },
+    "list": {
+      "MAX": "%arg% liste argümanının adedi %max% sayısından fazla olamaz",
+      "MIN": "%arg% liste argümanının adedi %min% sayısından az olamaz",
+      "MAX_LENGTH": "%arg% liste argümanının içerisindeki itemlerin karakter sayısı %maxLength% sayısını geçemez",
+      "MIN_LENGTH": "%arg% liste argümanının içerisindeki itemlerin karakter sayısı %minLength% sayısından az olamaz",
+      "DUPES": "%arg% liste argümanı tekrarlanmış itemleri içeremez"
+    },
+    "int": {
+      "NOT_INT": "%arg% argümanı bir sayı olmak zorunda",
+      "MAX": "%arg% argümanı %max% sayısına eşit veya daha küçük olmalı",
+      "MIN": "%arg% argümanı %min% sayısına eşit veya daha büyük olmalı"
+    }
+  },
+  "menus": {
+    "EXIT": "`%cancel%` tuşuna basarak menüden çık.",
+    "EXITED": "menüden çıktınız.",
+    "SELECTION": "Seçim Menüsü",
+    "ERROR": "Bilinmeyen Hata",
+    "INPUT": "Seçmek için seçiminin numarasını, iptal etmek için `%cancel%` yaz.",
+    "NEXT_PAGE": "Sonraki sayfa",
+    "PREV_PAGE": "Önceki sayfa"
+  },
+  "collector": {
+    "timeout": "menü inaktiflikten dolayı kapatıldı",
+    "max": "%max% deneme aşıldı",
+    "maxMatches": "%maxMatches% eşleşmeler aşıldı"
+  }
+}

@@ -1,0 +1,5 @@
+{
+	"HELP_DESC": "Mesajını kanalda kayıtlı mesajlar ile tamamla",
+	"USAGE_EXAMPLE_1": "`bruh` yazısını bu kanaldaki mesajlarla tamamla",
+	"USAGE_EXAMPLE_2": "`hello` yazısını `#copy-paste` kanalındaki mesajlarla tamamla"
+}

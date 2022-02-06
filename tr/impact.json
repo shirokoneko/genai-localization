@@ -1,0 +1,7 @@
+{
+  "HELP_DESC": "Impact yazı tipi ile rastgele bir resim üzerine yazı oluşturur",
+  "USAGE_EXAMPLE_1": "Impact yazı tipi ile rastgele bir resim üzerine bu kanaldaki yazılardan rastgele bir yazı ile yeni bir resim oluşturur",
+  "USAGE_EXAMPLE_2": "Impact yazı tipi ile rastgele bir resim üzerine `#general` kanalındaki yazılardan rastgele bir yazı ile yeni bir resim oluşturur",
+  "USAGE_EXAMPLE_3": "Impact yazı tipi ile **andre**'nin profil fotoğrafı üzerine `#memez` kanalındaki yazılardan rastgele bir yazı ile yeni bir resim oluşturur",
+  "USAGE_EXAMPLE_4": "Impact yazı tipi ile linki verilen resim üzerine bu kanaldaki yazılardan rastgele bir yazı ile yeni bir resim oluşturur"
+}

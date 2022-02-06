@@ -1,0 +1,27 @@
+{
+	"HELP_DESC": "GenAi premium hakkında bilgilendirme",
+	"INFO_TITLE": "GenAi premium hakkında bilgilendirme",
+	"USAGE_EXAMPLE_1": "Abonelik hakkında bilgilendirmeyi göster",
+	"USAGE_EXAMPLE_2": "Özellikleri etkileştirdiğin sunucuların listesini göster",
+	"USAGE_EXAMPLE_3": "Bulunduğun sunucu için özellikleri aktif et (veya deaktif et)",
+	"INFO_DESCRIPTION": "GenAi geliştiricisini desteklemek ve sunucular için bonuslar elde etmek için GenAi Premium aboneliği satın alabilirsin.",
+	"INFO_DESCRIPTION_PURCHASE": "Satın almak için **[Patreon](https://genai.bot/premium)**.",
+	"INFO_PERKS_TITLE": "Aboneler için bonuslar",
+	"INFO_PERKS_LIST": [
+		"Özellikleri **%limit% tane sunucuda** kullanabilme",
+		"Kanal komut bekleme sürelerini **40%** kadar azaltma",
+		"Sabit auto-generation aralığını **5 ile 50 mesaj arasında ayarlama**: `%prefix%interval <5-50>`",
+		"Komutlardaki tüm oluşturma seçenekleri **otomatik oluşturma için** geçerli olur: `%prefix%autogen`",
+		"**Cümlelere ekleme yapabilme** aktif olur: `%prefix%generate <yazmak istediğiniz metin>)`",
+		"Her kanal için limit filtre sayısı **10'a yükselir**"
+	],
+	"GUILDS_NO_PREMIUM": "bir premium aboneliğine sahip değilsin, abonelik edinmek için `%prefix%premium`",
+	"GUILDS_NO_ITEMS": "aktif ayrıcalıklarına sahip olan bir sunucuya sahip değilsin.",
+	"GUILDS_LIST_TITLE": "premium ayrıcalıklarını aktifleştirdiğin sunucuların listesi",
+	"TOGGLE_NO_PREMIUM": "bir premium aboneliğine sahip değilsin, abonelik edinmek için `%prefix%premium`",
+	"TOGGLE_ANOTHER_ACTIVATED": "premium ayrıcalıkları bu sunucu için zaten başka bir kullanıcı tarafından açılmış.",
+	"TOGGLE_LIMIT": "`%limit%` tane sunucudan daha fazla sunucu için ayrıcalık açamazsın.",
+	"TOGGLE_UNKNOWN_ERROR": "bu sunucu için ayrıcalık açma başarısız oldu.",
+	"TOGGLE_ENABLED": "bu sunucu için başarıyla premium ayrıcalıklarını açtın.",
+	"TOGGLE_DISABLED": "bu sunucu için başarıyla premium ayrıcalıklarını deaktifleştirdin."
+}
